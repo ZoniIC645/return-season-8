@@ -1,0 +1,48 @@
+Liquids:
+<liquid:basepotashliquor>, Base Potash Liquor
+<liquid:beefstew>, Beef Stew
+<liquid:beer>, Beer
+<liquid:biodiesel>, Biodiesel
+<liquid:brine>, Brine
+<liquid:broth>, Broth
+<liquid:chickensoup>, Chicken Soup
+<liquid:cider>, Cider
+<liquid:cornwhiskey>, Corn Whiskey
+<liquid:creosote>, Creosote Oil
+<liquid:ethanol>, Ethanol
+<liquid:fishchowder>, Fish Chowder
+<liquid:freshwater>, Fresh Water
+<liquid:fruitjuice>, Fruit Juice
+<liquid:fruitwine>, Fruit Wine
+<liquid:hotwater>, Hot Springs
+<liquid:juiceapple>, Apple Juice
+<liquid:juicelemon>, Lemon Juice
+<liquid:juiceonion>, Onion Juice
+<liquid:juiceorange>, Orange Juice
+<liquid:latex>, Latex
+<liquid:lava>, Lava
+<liquid:lavatfc>, fluid.tile.lava
+<liquid:lemonade>, Lemonade
+<liquid:limewater>, Limewater
+<liquid:milk>, Milk
+<liquid:milkcurdled>, Curdled Milk
+<liquid:milkvinegar>, Milk + Vinegar Mix
+<liquid:nitricacid>, Nitric Acid
+<liquid:oliveoil>, Olive Oil
+<liquid:plantoil>, Plant Oil
+<liquid:rum>, Rum
+<liquid:ryewhiskey>, Rye Whiskey
+<liquid:sake>, Sake
+<liquid:saltwater>, Salt Water
+<liquid:soymilk>, Soy Milk
+<liquid:sulfuricacid>, Sulfuric Acid
+<liquid:tannin>, Tannin
+<liquid:tomatosoup>, Tomato Soup
+<liquid:vegetablesoup>, Vegetable Soup
+<liquid:venisonstew>, Venison Stew
+<liquid:vinegar>, Vinegar
+<liquid:vodka>, Vodka
+<liquid:waste>, Waste
+<liquid:water>, Water
+<liquid:waterhot>, Hot Water
+<liquid:whiskey>, Whiskey

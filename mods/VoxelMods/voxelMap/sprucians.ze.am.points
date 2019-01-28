@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:HOME!,x:-35,z:-9581,y:148,enabled:true,red:0.003921569,green:0.9647059,blue:0.11372549,suffix:House,world:,dimensions:0#
+name:Null 4,x:350,z:-9744,y:144,enabled:true,red:0.38039216,green:0.18039216,blue:0.7411765,suffix:World,world:,dimensions:0#
+name:Mountains_Cliff,x:162,z:-9921,y:164,enabled:true,red:0.90898955,green:0.40775394,blue:0.7748151,suffix:,world:,dimensions:0#
+name:Latest Death,x:-5,z:-9583,y:154,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:Skull,world:,dimensions:0#
+name:Peach,x:-250,z:-9756,y:145,enabled:true,red:0.49745786,green:0.31621033,blue:0.23026198,suffix:,world:,dimensions:0#

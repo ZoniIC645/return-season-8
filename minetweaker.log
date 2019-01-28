@@ -1,0 +1,2362 @@
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Large Funnel
+INFO: Adding recipe for Small Funnel
+INFO: Adding recipe for Cherepanov's engine
+INFO: Adding recipe for Handcar
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Removing 0 recipes
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Fruit Press
+INFO: Removing 3 recipes
+INFO: Adding recipe for Sandstone
+INFO: Removing 4 recipes
+INFO: Adding recipe for Concrete
+INFO: Adding recipe for Concrete
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wooden Club
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Fridge
+INFO: Adding recipe for Deep Freezer
+INFO: Adding recipe for Deep Freezer
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding item 'Jute' with 'Fresh Water' to barrel yeilding 'Jute Fiber'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Capacitor Electrode
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Reinforced Blast Brick
+INFO: Removing 1 recipes
+INFO: Adding recipe for Conveyor Belt
+INFO: Removing 1 recipes
+INFO: Adding recipe for Jack o'Lantern
+INFO: Removing 1 recipes
+INFO: Adding recipe for Glowstone
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Aluminium Plate
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engineer's Workbench
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Current Transformer
+INFO: Adding recipe for Breaker Switch
+INFO: Adding recipe for Hempcrete
+INFO: Adding recipe for Wooden Post
+INFO: Adding recipe for Tough Fabric
+INFO: Removing Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Adding Metal Press Recipe for Bismuth Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Sheet
+INFO: Adding Metal Press Recipe for Bronze Sheet
+INFO: Adding Metal Press Recipe for Black Steel Sheet
+INFO: Adding Metal Press Recipe for Steel Sheet
+INFO: Adding Metal Press Recipe for Red Steel Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Sheet
+INFO: Adding Metal Press Recipe for Tin Sheet
+INFO: Adding Metal Press Recipe for Zinc Sheet
+INFO: Adding Metal Press Recipe for Copper Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Sheet
+INFO: Adding Metal Press Recipe for Nickel Sheet
+INFO: Adding Metal Press Recipe for Aluminum Sheet
+INFO: Adding Metal Press Recipe for Electrum Sheet
+INFO: Adding Metal Press Recipe for Constantan Sheet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Piston
+INFO: Removing 1 recipes
+INFO: Adding recipe for Vulcanizing Agents
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engine
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Steam Boat
+INFO: Adding recipe for Airship
+INFO: Adding recipe for Coal
+INFO: Adding recipe for Coal
+INFO: Translating item.coal.name to Fuel
+INFO: Translating tile.sandStone.default.name to Hardened Sand
+INFO: Translating tile.sandStone.chiseled.name to Sculpted Hardened Sand
+INFO: Translating tile.sandStone.smooth.name to Smoothened Hardened Sand
+INFO: Translating tile.stoneSlab.sand.name to Hardened Sand Slab
+INFO: Translating tile.stairsSandStone.name to Hardened Sand Stairs
+INFO: Removing 1 recipes
+INFO: Adding plan 'minecart'
+INFO: Setting localization for the key: gui.plans.minecart to Minecart
+INFO: Removing 1 recipes
+INFO: Adding recipe for Coke Brick
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to Gypsum Powder
+INFO: Removing item 'Chalk Rock' from the Quern yeilding 'Chalk Powder'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Gypsum' to the Quern to yeild 'Chalk Powder'
+INFO: Adding Crusher Recipe for Chalk Powder
+INFO: Adding item 'Chalk Powder' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Setting localization for the key: tfcm:item.IronDust to Powdered Iron Ore
+INFO: Removing item 'Wrought Iron Ingot' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Removing 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Removing 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Adding Charcoal as Blast Furnace Fuel
+INFO: Adding Coal Coke as Blast Furnace Fuel
+INFO: Adding Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Block of Steel
+INFO: Adding Blast Furnace Recipe for Pig Iron Ingot
+INFO: Adding Blast Furnace Recipe for Steel Ingot
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to Iron Ore Pellet
+INFO: Adding recipe for Satinspar
+INFO: Adding recipe for Satinspar
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding item 'Small Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding item 'Slag' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Adding plan 'shell'
+INFO: Removing 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to Bullet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Empty Shell
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bayonet
+INFO: Adding recipe for Glass Bottle
+INFO: Adding item 'Bloomery' to heated items with melting point '1000.0' and specific heat '0.25' to yeild 'Bronze Double Sheet'
+INFO: Adding item 'Blast Furnace' to heated items with melting point '1540.0' and specific heat '0.25' to yeild 'Wrought Iron Double Sheet'
+INFO: Adding plan 'doublesheet'
+INFO: Setting localization for the key: gui.plans.doublesheet to Uncrafting
+INFO: Removing 1 recipes
+INFO: Adding recipe for Howitzer
+INFO: Translating item.Red Alloy Ingot.name to Metal Press Mold: Weld
+INFO: Adding Metal Press Recipe for Bismuth Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Blue Steel Double Ingot
+INFO: Adding Metal Press Recipe for Black Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Black Steel Double Ingot
+INFO: Adding Metal Press Recipe for Steel Double Ingot
+INFO: Adding Metal Press Recipe for Red Steel Double Ingot
+INFO: Adding Metal Press Recipe for Rose Gold Double Ingot
+INFO: Adding Metal Press Recipe for Tin Double Ingot
+INFO: Adding Metal Press Recipe for Zinc Double Ingot
+INFO: Adding Metal Press Recipe for Copper Double Ingot
+INFO: Adding Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Adding Metal Press Recipe for Nickel Double Ingot
+INFO: Adding Metal Press Recipe for Aluminum Double Ingot
+INFO: Adding Metal Press Recipe for Electrum Double Ingot
+INFO: Adding Metal Press Recipe for Constantan Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Double Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Double Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Black Steel Double Sheet
+INFO: Adding Metal Press Recipe for Steel Double Sheet
+INFO: Adding Metal Press Recipe for Red Steel Double Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Double Sheet
+INFO: Adding Metal Press Recipe for Tin Double Sheet
+INFO: Adding Metal Press Recipe for Zinc Double Sheet
+INFO: Adding Metal Press Recipe for Copper Double Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Adding Metal Press Recipe for Nickel Double Sheet
+INFO: Adding Metal Press Recipe for Aluminum Double Sheet
+INFO: Adding Metal Press Recipe for Electrum Double Sheet
+INFO: Adding Metal Press Recipe for Constantan Double Sheet
+INFO: Removing MineralMix: Nickel
+INFO: Removing MineralMix: Bauxite
+INFO: Removing MineralMix: Lead
+INFO: Removing MineralMix: Pyrite
+INFO: Removing MineralMix: Gold
+INFO: Removing MineralMix: Iron
+INFO: Removing MineralMix: Galena
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Copper
+INFO: Removing MineralMix: Uranium
+INFO: Removing MineralMix: Lapis
+INFO: Removing MineralMix: Silver
+INFO: Removing MineralMix: Quartzite
+INFO: Removing MineralMix: Magnetite
+INFO: Removing MineralMix: Platinum
+INFO: Adding MineralMix: Iron with weight 20
+INFO: Adding MineralMix: Coal with weight 55
+INFO: Registering fluid: content.
+INFO: Registering fluid: refinded oil.
+INFO: Registering block: Oil Sand.
+INFO: Registering item: Crushed Oilsand.
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Grade Crossing
+INFO: Adding recipe for Large parallel lane
+INFO: Adding recipe for Medium parallel lane
+INFO: Adding recipe for Small parallel lane
+INFO: Adding recipe for Large parallel switch
+INFO: Adding recipe for Medium parallel switch
+INFO: Adding recipe for Prybar
+INFO: Adding recipe for Small parallel switch
+INFO: Adding recipe for 1/50 slope
+INFO: Adding recipe for 1/25 slope
+INFO: Adding recipe for 1/12 slope
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre switch
+INFO: Adding recipe for 60 metre switch
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre turn
+INFO: Adding recipe for 60 metre turn
+INFO: Adding recipe for 30 metre turn
+INFO: Adding recipe for Buffer stop
+INFO: Adding recipe for 30 metre switch
+INFO: Adding recipe for Crossing
+INFO: Adding recipe for Straight track
+INFO: Adding recipe for Straight track
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Registering block: Enhanced Gravel.
+INFO: Cannot remove blocks during runtime.
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Crossing
+INFO: Removing recipe for 30 metre switch
+INFO: Removing recipe for Buffer stop
+INFO: Removing recipe for 30 metre turn
+INFO: Removing recipe for 60 metre turn
+INFO: Removing recipe for 90 metre turn
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 60 metre switch
+INFO: Removing recipe for 90 metre switch
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 1/12 slope
+INFO: Removing recipe for 1/25 slope
+INFO: Removing recipe for 1/50 slope
+INFO: Removing recipe for Small parallel switch
+INFO: Removing recipe for Prybar
+INFO: Removing recipe for Medium parallel switch
+INFO: Removing recipe for Large parallel switch
+INFO: Removing recipe for Small parallel lane
+INFO: Removing recipe for Medium parallel lane
+INFO: Removing recipe for Large parallel lane
+INFO: Removing recipe for Grade Crossing
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Cannot remove items during runtime.
+INFO: Cannot remove blocks during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Iron
+INFO: Re-Adding MineralMix: Platinum
+INFO: Re-Adding MineralMix: Magnetite
+INFO: Re-Adding MineralMix: Quartzite
+INFO: Re-Adding MineralMix: Silver
+INFO: Re-Adding MineralMix: Lapis
+INFO: Re-Adding MineralMix: Uranium
+INFO: Re-Adding MineralMix: Copper
+INFO: Re-Adding MineralMix: Coal
+INFO: Re-Adding MineralMix: Galena
+INFO: Re-Adding MineralMix: Iron
+INFO: Re-Adding MineralMix: Gold
+INFO: Re-Adding MineralMix: Pyrite
+INFO: Re-Adding MineralMix: Lead
+INFO: Re-Adding MineralMix: Bauxite
+INFO: Re-Adding MineralMix: Nickel
+INFO: Removing Metal Press Recipe for Constantan Double Sheet
+INFO: Removing Metal Press Recipe for Electrum Double Sheet
+INFO: Removing Metal Press Recipe for Aluminum Double Sheet
+INFO: Removing Metal Press Recipe for Nickel Double Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Removing Metal Press Recipe for Copper Double Sheet
+INFO: Removing Metal Press Recipe for Zinc Double Sheet
+INFO: Removing Metal Press Recipe for Tin Double Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Double Sheet
+INFO: Removing Metal Press Recipe for Red Steel Double Sheet
+INFO: Removing Metal Press Recipe for Steel Double Sheet
+INFO: Removing Metal Press Recipe for Black Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Double Sheet
+INFO: Removing Metal Press Recipe for Constantan Double Ingot
+INFO: Removing Metal Press Recipe for Electrum Double Ingot
+INFO: Removing Metal Press Recipe for Aluminum Double Ingot
+INFO: Removing Metal Press Recipe for Nickel Double Ingot
+INFO: Removing Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Removing Metal Press Recipe for Copper Double Ingot
+INFO: Removing Metal Press Recipe for Zinc Double Ingot
+INFO: Removing Metal Press Recipe for Tin Double Ingot
+INFO: Removing Metal Press Recipe for Rose Gold Double Ingot
+INFO: Removing Metal Press Recipe for Red Steel Double Ingot
+INFO: Removing Metal Press Recipe for Steel Double Ingot
+INFO: Removing Metal Press Recipe for Black Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Black Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Blue Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Double Ingot
+INFO: Reverting item.Red Alloy Ingot.name to Red Alloy Ingot
+INFO: Removing recipe for Howitzer
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.doublesheet to null
+INFO: Removing plan 'doublesheet'
+INFO: Removing item 'Blast Furnace' from heated items with melting point '1540.0' and specific heat '0.25' yeilding 'Wrought Iron Double Sheet'
+INFO: Removing item 'Bloomery' from heated items with melting point '1000.0' and specific heat '0.25' yeilding 'Bronze Double Sheet'
+INFO: Removing recipe for Glass Bottle
+INFO: Removing recipe for Bayonet
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Empty Shell
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to null
+INFO: Restoring 1 recipes
+INFO: Removing plan 'shell'
+INFO: Removing item 'Slag' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing item 'Poor Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing recipe for Satinspar
+INFO: Removing recipe for Satinspar
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to null
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Pig Iron Ingot
+INFO: Re-Adding Blast Furnace Recipe for Block of Steel
+INFO: Re-Adding Blast Furnace Recipe for Steel Ingot
+INFO: Removing Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Coal Coke as Blast Furnace Fuel
+INFO: Removing Charcoal as Blast Furnace Fuel
+INFO: Re-Adding 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Wrought Iron Ingot' to the Quern to yeild 'Iron Dust'
+INFO: Setting localization for the key: tfcm:item.IronDust to null
+INFO: Removing item 'Chalk Powder' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Chalk Powder
+INFO: Removing item 'Gypsum' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Chalk Powder'
+INFO: Adding item 'Chalk Rock' to the Quern to yeild 'Chalk Powder'
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to null
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Coke Brick
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.minecart to null
+INFO: Removing plan 'minecart'
+INFO: Restoring 1 recipes
+INFO: Reverting tile.stairsSandStone.name to Sandstone Stairs
+INFO: Reverting tile.stoneSlab.sand.name to Sandstone Slab
+INFO: Reverting tile.sandStone.smooth.name to Smooth Sandstone
+INFO: Reverting tile.sandStone.chiseled.name to Chiseled Sandstone
+INFO: Reverting tile.sandStone.default.name to Sandstone
+INFO: Reverting item.coal.name to Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Airship
+INFO: Removing recipe for Steam Boat
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engine
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Vulcanizing Agents
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Piston
+INFO: Restoring 1 recipes
+INFO: Removing Metal Press Recipe for Constantan Sheet
+INFO: Removing Metal Press Recipe for Electrum Sheet
+INFO: Removing Metal Press Recipe for Aluminum Sheet
+INFO: Removing Metal Press Recipe for Nickel Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Sheet
+INFO: Removing Metal Press Recipe for Copper Sheet
+INFO: Removing Metal Press Recipe for Zinc Sheet
+INFO: Removing Metal Press Recipe for Tin Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Sheet
+INFO: Removing Metal Press Recipe for Red Steel Sheet
+INFO: Removing Metal Press Recipe for Steel Sheet
+INFO: Removing Metal Press Recipe for Black Steel Sheet
+INFO: Removing Metal Press Recipe for Bronze Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Removing Metal Press Recipe for Bismuth Sheet
+INFO: Re-Adding Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Removing recipe for Tough Fabric
+INFO: Removing recipe for Wooden Post
+INFO: Removing recipe for Hempcrete
+INFO: Removing recipe for Breaker Switch
+INFO: Removing recipe for Current Transformer
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engineer's Workbench
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Aluminium Plate
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Removing recipe for Glowstone
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Jack o'Lantern
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Conveyor Belt
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Reinforced Blast Brick
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Capacitor Electrode
+INFO: Restoring 1 recipes
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 1 Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 2 null
+INFO: [Stuck] 3 straywolfe.tfctweaker.handlers.Barrel$removeItemFluidConversionAction@1f72b644
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Fridge
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Wooden Club
+INFO: Restoring 1 recipes
+INFO: Removing Crusher Recipe for Redstone
+INFO: Removing Crusher Recipe for Redstone
+INFO: Re-Adding Crusher Recipe for Redstone
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Removing recipe for Concrete
+INFO: Removing recipe for Concrete
+INFO: Restoring 4 recipes
+INFO: Removing recipe for Sandstone
+INFO: Restoring 3 recipes
+INFO: Removing recipe for Fruit Press
+INFO: Removing recipe for Hopper
+INFO: Removing recipe for Hopper
+INFO: Restoring 0 recipes
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Removing recipe for Handcar
+INFO: Removing recipe for Cherepanov's engine
+INFO: Removing recipe for Small Funnel
+INFO: Removing recipe for Large Funnel
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Large Funnel
+INFO: Adding recipe for Small Funnel
+INFO: Adding recipe for Cherepanov's engine
+INFO: Adding recipe for Handcar
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Removing 0 recipes
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Fruit Press
+INFO: Removing 3 recipes
+INFO: Adding recipe for Sandstone
+INFO: Removing 4 recipes
+INFO: Adding recipe for Concrete
+INFO: Adding recipe for Concrete
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wooden Club
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Fridge
+INFO: Adding recipe for Deep Freezer
+INFO: Adding recipe for Deep Freezer
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding item 'Jute' with 'Fresh Water' to barrel yeilding 'Jute Fiber'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Capacitor Electrode
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Reinforced Blast Brick
+INFO: Removing 1 recipes
+INFO: Adding recipe for Conveyor Belt
+INFO: Removing 1 recipes
+INFO: Adding recipe for Jack o'Lantern
+INFO: Removing 1 recipes
+INFO: Adding recipe for Glowstone
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Aluminium Plate
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engineer's Workbench
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Current Transformer
+INFO: Adding recipe for Breaker Switch
+INFO: Adding recipe for Hempcrete
+INFO: Adding recipe for Wooden Post
+INFO: Adding recipe for Tough Fabric
+INFO: Removing Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Adding Metal Press Recipe for Bismuth Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Sheet
+INFO: Adding Metal Press Recipe for Bronze Sheet
+INFO: Adding Metal Press Recipe for Black Steel Sheet
+INFO: Adding Metal Press Recipe for Steel Sheet
+INFO: Adding Metal Press Recipe for Red Steel Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Sheet
+INFO: Adding Metal Press Recipe for Tin Sheet
+INFO: Adding Metal Press Recipe for Zinc Sheet
+INFO: Adding Metal Press Recipe for Copper Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Sheet
+INFO: Adding Metal Press Recipe for Nickel Sheet
+INFO: Adding Metal Press Recipe for Aluminum Sheet
+INFO: Adding Metal Press Recipe for Electrum Sheet
+INFO: Adding Metal Press Recipe for Constantan Sheet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Piston
+INFO: Removing 1 recipes
+INFO: Adding recipe for Vulcanizing Agents
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engine
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Steam Boat
+INFO: Adding recipe for Airship
+INFO: Adding recipe for Coal
+INFO: Adding recipe for Coal
+INFO: Translating item.coal.name to Fuel
+INFO: Translating tile.sandStone.default.name to Hardened Sand
+INFO: Translating tile.sandStone.chiseled.name to Sculpted Hardened Sand
+INFO: Translating tile.sandStone.smooth.name to Smoothened Hardened Sand
+INFO: Translating tile.stoneSlab.sand.name to Hardened Sand Slab
+INFO: Translating tile.stairsSandStone.name to Hardened Sand Stairs
+INFO: Removing 1 recipes
+INFO: Adding plan 'minecart'
+INFO: Setting localization for the key: gui.plans.minecart to Minecart
+INFO: Removing 1 recipes
+INFO: Adding recipe for Coke Brick
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to Gypsum Powder
+INFO: Removing item 'Chalk Rock' from the Quern yeilding 'Chalk Powder'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Gypsum' to the Quern to yeild 'Chalk Powder'
+INFO: Adding Crusher Recipe for Chalk Powder
+INFO: Adding item 'Chalk Powder' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Setting localization for the key: tfcm:item.IronDust to Powdered Iron Ore
+INFO: Removing item 'Wrought Iron Ingot' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Removing 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Removing 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Adding Charcoal as Blast Furnace Fuel
+INFO: Adding Coal Coke as Blast Furnace Fuel
+INFO: Adding Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Block of Steel
+INFO: Adding Blast Furnace Recipe for Pig Iron Ingot
+INFO: Adding Blast Furnace Recipe for Steel Ingot
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to Iron Ore Pellet
+INFO: Adding recipe for Satinspar
+INFO: Adding recipe for Satinspar
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding item 'Small Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding item 'Slag' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Adding plan 'shell'
+INFO: Removing 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to Bullet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Empty Shell
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bayonet
+INFO: Adding recipe for Glass Bottle
+INFO: Adding item 'Bloomery' to heated items with melting point '1000.0' and specific heat '0.25' to yeild 'Bronze Double Sheet'
+INFO: Adding item 'Blast Furnace' to heated items with melting point '1540.0' and specific heat '0.25' to yeild 'Wrought Iron Double Sheet'
+INFO: Adding plan 'doublesheet'
+INFO: Setting localization for the key: gui.plans.doublesheet to Uncrafting
+INFO: Removing 1 recipes
+INFO: Adding recipe for Howitzer
+INFO: Translating item.Red Alloy Ingot.name to Metal Press Mold: Weld
+INFO: Adding Metal Press Recipe for Bismuth Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Blue Steel Double Ingot
+INFO: Adding Metal Press Recipe for Black Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Black Steel Double Ingot
+INFO: Adding Metal Press Recipe for Steel Double Ingot
+INFO: Adding Metal Press Recipe for Red Steel Double Ingot
+INFO: Adding Metal Press Recipe for Rose Gold Double Ingot
+INFO: Adding Metal Press Recipe for Tin Double Ingot
+INFO: Adding Metal Press Recipe for Zinc Double Ingot
+INFO: Adding Metal Press Recipe for Copper Double Ingot
+INFO: Adding Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Adding Metal Press Recipe for Nickel Double Ingot
+INFO: Adding Metal Press Recipe for Aluminum Double Ingot
+INFO: Adding Metal Press Recipe for Electrum Double Ingot
+INFO: Adding Metal Press Recipe for Constantan Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Double Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Double Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Black Steel Double Sheet
+INFO: Adding Metal Press Recipe for Steel Double Sheet
+INFO: Adding Metal Press Recipe for Red Steel Double Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Double Sheet
+INFO: Adding Metal Press Recipe for Tin Double Sheet
+INFO: Adding Metal Press Recipe for Zinc Double Sheet
+INFO: Adding Metal Press Recipe for Copper Double Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Adding Metal Press Recipe for Nickel Double Sheet
+INFO: Adding Metal Press Recipe for Aluminum Double Sheet
+INFO: Adding Metal Press Recipe for Electrum Double Sheet
+INFO: Adding Metal Press Recipe for Constantan Double Sheet
+INFO: Removing MineralMix: Nickel
+INFO: Removing MineralMix: Bauxite
+INFO: Removing MineralMix: Lead
+INFO: Removing MineralMix: Pyrite
+INFO: Removing MineralMix: Gold
+INFO: Removing MineralMix: Iron
+INFO: Removing MineralMix: Galena
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Copper
+INFO: Removing MineralMix: Uranium
+INFO: Removing MineralMix: Lapis
+INFO: Removing MineralMix: Silver
+INFO: Removing MineralMix: Quartzite
+INFO: Removing MineralMix: Magnetite
+INFO: Removing MineralMix: Platinum
+INFO: Adding MineralMix: Iron with weight 20
+INFO: Adding MineralMix: Coal with weight 55
+INFO: Registering fluid: content.
+INFO: Registering fluid: refinded oil.
+INFO: Registering block: Oil Sand.
+INFO: Registering item: Crushed Oilsand.
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Grade Crossing
+INFO: Adding recipe for Large parallel lane
+INFO: Adding recipe for Medium parallel lane
+INFO: Adding recipe for Small parallel lane
+INFO: Adding recipe for Large parallel switch
+INFO: Adding recipe for Medium parallel switch
+INFO: Adding recipe for Prybar
+INFO: Adding recipe for Small parallel switch
+INFO: Adding recipe for 1/50 slope
+INFO: Adding recipe for 1/25 slope
+INFO: Adding recipe for 1/12 slope
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre switch
+INFO: Adding recipe for 60 metre switch
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre turn
+INFO: Adding recipe for 60 metre turn
+INFO: Adding recipe for 30 metre turn
+INFO: Adding recipe for Buffer stop
+INFO: Adding recipe for 30 metre switch
+INFO: Adding recipe for Crossing
+INFO: Adding recipe for Straight track
+INFO: Adding recipe for Straight track
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Registering block: Enhanced Gravel.
+WARNING: 1 modifications were stuck
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'
+INFO: 
+INFO: 
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: Removing 'Blast Furnace' to anvil yeild 'Wrought Iron Double Sheet'
+INFO: Removing 'Bloomery' to anvil yeild 'Bronze Double Sheet'
+INFO: Removing 'Brass Sheet' to anvil yeild 'Empty Casing'
+INFO: Removing 'Wrought Iron Double Sheet' to anvil yeild 'Minecart'
+INFO: Removing 'Blast Furnace' to anvil yeild 'Wrought Iron Double Sheet'
+INFO: Removing 'Bloomery' to anvil yeild 'Bronze Double Sheet'
+INFO: Removing 'Brass Sheet' to anvil yeild 'Empty Casing'
+INFO: Removing 'Wrought Iron Double Sheet' to anvil yeild 'Minecart'
+INFO: Cannot remove blocks during runtime.
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Crossing
+INFO: Removing recipe for 30 metre switch
+INFO: Removing recipe for Buffer stop
+INFO: Removing recipe for 30 metre turn
+INFO: Removing recipe for 60 metre turn
+INFO: Removing recipe for 90 metre turn
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 60 metre switch
+INFO: Removing recipe for 90 metre switch
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 1/12 slope
+INFO: Removing recipe for 1/25 slope
+INFO: Removing recipe for 1/50 slope
+INFO: Removing recipe for Small parallel switch
+INFO: Removing recipe for Prybar
+INFO: Removing recipe for Medium parallel switch
+INFO: Removing recipe for Large parallel switch
+INFO: Removing recipe for Small parallel lane
+INFO: Removing recipe for Medium parallel lane
+INFO: Removing recipe for Large parallel lane
+INFO: Removing recipe for Grade Crossing
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Cannot remove items during runtime.
+INFO: Cannot remove blocks during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Iron
+INFO: Re-Adding MineralMix: Platinum
+INFO: Re-Adding MineralMix: Magnetite
+INFO: Re-Adding MineralMix: Quartzite
+INFO: Re-Adding MineralMix: Silver
+INFO: Re-Adding MineralMix: Lapis
+INFO: Re-Adding MineralMix: Uranium
+INFO: Re-Adding MineralMix: Copper
+INFO: Re-Adding MineralMix: Coal
+INFO: Re-Adding MineralMix: Galena
+INFO: Re-Adding MineralMix: Iron
+INFO: Re-Adding MineralMix: Gold
+INFO: Re-Adding MineralMix: Pyrite
+INFO: Re-Adding MineralMix: Lead
+INFO: Re-Adding MineralMix: Bauxite
+INFO: Re-Adding MineralMix: Nickel
+INFO: Removing Metal Press Recipe for Constantan Double Sheet
+INFO: Removing Metal Press Recipe for Electrum Double Sheet
+INFO: Removing Metal Press Recipe for Aluminum Double Sheet
+INFO: Removing Metal Press Recipe for Nickel Double Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Removing Metal Press Recipe for Copper Double Sheet
+INFO: Removing Metal Press Recipe for Zinc Double Sheet
+INFO: Removing Metal Press Recipe for Tin Double Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Double Sheet
+INFO: Removing Metal Press Recipe for Red Steel Double Sheet
+INFO: Removing Metal Press Recipe for Steel Double Sheet
+INFO: Removing Metal Press Recipe for Black Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Double Sheet
+INFO: Removing Metal Press Recipe for Constantan Double Ingot
+INFO: Removing Metal Press Recipe for Electrum Double Ingot
+INFO: Removing Metal Press Recipe for Aluminum Double Ingot
+INFO: Removing Metal Press Recipe for Nickel Double Ingot
+INFO: Removing Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Removing Metal Press Recipe for Copper Double Ingot
+INFO: Removing Metal Press Recipe for Zinc Double Ingot
+INFO: Removing Metal Press Recipe for Tin Double Ingot
+INFO: Removing Metal Press Recipe for Rose Gold Double Ingot
+INFO: Removing Metal Press Recipe for Red Steel Double Ingot
+INFO: Removing Metal Press Recipe for Steel Double Ingot
+INFO: Removing Metal Press Recipe for Black Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Black Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Blue Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Double Ingot
+INFO: Reverting item.Red Alloy Ingot.name to Red Alloy Ingot
+INFO: Removing recipe for Howitzer
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.doublesheet to null
+INFO: Removing plan 'doublesheet'
+INFO: Removing item 'Blast Furnace' from heated items with melting point '1540.0' and specific heat '0.25' yeilding 'Wrought Iron Double Sheet'
+INFO: Removing item 'Bloomery' from heated items with melting point '1000.0' and specific heat '0.25' yeilding 'Bronze Double Sheet'
+INFO: Removing recipe for Glass Bottle
+INFO: Removing recipe for Bayonet
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Empty Shell
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to null
+INFO: Restoring 1 recipes
+INFO: Removing plan 'shell'
+INFO: Removing item 'Slag' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing item 'Poor Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing recipe for Satinspar
+INFO: Removing recipe for Satinspar
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to null
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Pig Iron Ingot
+INFO: Re-Adding Blast Furnace Recipe for Block of Steel
+INFO: Re-Adding Blast Furnace Recipe for Steel Ingot
+INFO: Removing Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Coal Coke as Blast Furnace Fuel
+INFO: Removing Charcoal as Blast Furnace Fuel
+INFO: Re-Adding 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Wrought Iron Ingot' to the Quern to yeild 'Iron Dust'
+INFO: Setting localization for the key: tfcm:item.IronDust to null
+INFO: Removing item 'Chalk Powder' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Chalk Powder
+INFO: Removing item 'Gypsum' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Chalk Powder'
+INFO: Adding item 'Chalk Rock' to the Quern to yeild 'Chalk Powder'
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to null
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Coke Brick
+INFO: Restoring 1 recipes
+INFO: Setting localization for the key: gui.plans.minecart to null
+INFO: Removing plan 'minecart'
+INFO: Restoring 1 recipes
+INFO: Reverting tile.stairsSandStone.name to Sandstone Stairs
+INFO: Reverting tile.stoneSlab.sand.name to Sandstone Slab
+INFO: Reverting tile.sandStone.smooth.name to Smooth Sandstone
+INFO: Reverting tile.sandStone.chiseled.name to Chiseled Sandstone
+INFO: Reverting tile.sandStone.default.name to Sandstone
+INFO: Reverting item.coal.name to Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Airship
+INFO: Removing recipe for Steam Boat
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engine
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Vulcanizing Agents
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Piston
+INFO: Restoring 1 recipes
+INFO: Removing Metal Press Recipe for Constantan Sheet
+INFO: Removing Metal Press Recipe for Electrum Sheet
+INFO: Removing Metal Press Recipe for Aluminum Sheet
+INFO: Removing Metal Press Recipe for Nickel Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Sheet
+INFO: Removing Metal Press Recipe for Copper Sheet
+INFO: Removing Metal Press Recipe for Zinc Sheet
+INFO: Removing Metal Press Recipe for Tin Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Sheet
+INFO: Removing Metal Press Recipe for Red Steel Sheet
+INFO: Removing Metal Press Recipe for Steel Sheet
+INFO: Removing Metal Press Recipe for Black Steel Sheet
+INFO: Removing Metal Press Recipe for Bronze Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Removing Metal Press Recipe for Bismuth Sheet
+INFO: Re-Adding Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Removing recipe for Tough Fabric
+INFO: Removing recipe for Wooden Post
+INFO: Removing recipe for Hempcrete
+INFO: Removing recipe for Breaker Switch
+INFO: Removing recipe for Current Transformer
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engineer's Workbench
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Aluminium Plate
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Removing recipe for Glowstone
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Jack o'Lantern
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Conveyor Belt
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Reinforced Blast Brick
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Capacitor Electrode
+INFO: Restoring 1 recipes
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 1 Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 2 null
+INFO: [Stuck] 3 straywolfe.tfctweaker.handlers.Barrel$removeItemFluidConversionAction@18cecf28
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Fridge
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Wooden Club
+INFO: Restoring 1 recipes
+INFO: Removing Crusher Recipe for Redstone
+INFO: Removing Crusher Recipe for Redstone
+INFO: Re-Adding Crusher Recipe for Redstone
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Removing recipe for Concrete
+INFO: Removing recipe for Concrete
+INFO: Restoring 4 recipes
+INFO: Removing recipe for Sandstone
+INFO: Restoring 3 recipes
+INFO: Removing recipe for Fruit Press
+INFO: Removing recipe for Hopper
+INFO: Removing recipe for Hopper
+INFO: Restoring 0 recipes
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Removing recipe for Handcar
+INFO: Removing recipe for Cherepanov's engine
+INFO: Removing recipe for Small Funnel
+INFO: Removing recipe for Large Funnel
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Large Funnel
+INFO: Adding recipe for Small Funnel
+INFO: Adding recipe for Cherepanov's engine
+INFO: Adding recipe for Handcar
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Removing 0 recipes
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Fruit Press
+INFO: Removing 3 recipes
+INFO: Adding recipe for Sandstone
+INFO: Removing 4 recipes
+INFO: Adding recipe for Concrete
+INFO: Adding recipe for Concrete
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wooden Club
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Fridge
+INFO: Adding recipe for Deep Freezer
+INFO: Adding recipe for Deep Freezer
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding item 'Jute' with 'Fresh Water' to barrel yeilding 'Jute Fiber'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Capacitor Electrode
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Reinforced Blast Brick
+INFO: Removing 1 recipes
+INFO: Adding recipe for Conveyor Belt
+INFO: Removing 1 recipes
+INFO: Adding recipe for Jack o'Lantern
+INFO: Removing 1 recipes
+INFO: Adding recipe for Glowstone
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Aluminium Plate
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engineer's Workbench
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Current Transformer
+INFO: Adding recipe for Breaker Switch
+INFO: Adding recipe for Hempcrete
+INFO: Adding recipe for Wooden Post
+INFO: Adding recipe for Tough Fabric
+INFO: Removing Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Adding Metal Press Recipe for Bismuth Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Sheet
+INFO: Adding Metal Press Recipe for Bronze Sheet
+INFO: Adding Metal Press Recipe for Black Steel Sheet
+INFO: Adding Metal Press Recipe for Steel Sheet
+INFO: Adding Metal Press Recipe for Red Steel Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Sheet
+INFO: Adding Metal Press Recipe for Tin Sheet
+INFO: Adding Metal Press Recipe for Zinc Sheet
+INFO: Adding Metal Press Recipe for Copper Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Sheet
+INFO: Adding Metal Press Recipe for Nickel Sheet
+INFO: Adding Metal Press Recipe for Aluminum Sheet
+INFO: Adding Metal Press Recipe for Electrum Sheet
+INFO: Adding Metal Press Recipe for Constantan Sheet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Piston
+INFO: Removing 1 recipes
+INFO: Adding recipe for Vulcanizing Agents
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engine
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Steam Boat
+INFO: Adding recipe for Airship
+INFO: Adding recipe for Coal
+INFO: Adding recipe for Coal
+INFO: Translating item.coal.name to Fuel
+INFO: Translating tile.sandStone.default.name to Hardened Sand
+INFO: Translating tile.sandStone.chiseled.name to Sculpted Hardened Sand
+INFO: Translating tile.sandStone.smooth.name to Smoothened Hardened Sand
+INFO: Translating tile.stoneSlab.sand.name to Hardened Sand Slab
+INFO: Translating tile.stairsSandStone.name to Hardened Sand Stairs
+INFO: Removing 1 recipes
+INFO: Adding plan 'minecart'
+INFO: Setting localization for the key: gui.plans.minecart to Minecart
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Coke Brick
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to Gypsum Powder
+INFO: Removing item 'Chalk Rock' from the Quern yeilding 'Chalk Powder'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Gypsum' to the Quern to yeild 'Chalk Powder'
+INFO: Adding Crusher Recipe for Chalk Powder
+INFO: Adding item 'Chalk Powder' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Setting localization for the key: tfcm:item.IronDust to Powdered Iron Ore
+INFO: Removing item 'Wrought Iron Ingot' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Removing 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Removing 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Adding Charcoal as Blast Furnace Fuel
+INFO: Adding Coal Coke as Blast Furnace Fuel
+INFO: Adding Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Block of Steel
+INFO: Adding Blast Furnace Recipe for Pig Iron Ingot
+INFO: Adding Blast Furnace Recipe for Steel Ingot
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to Iron Ore Pellet
+INFO: Adding recipe for Satinspar
+INFO: Adding recipe for Satinspar
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding item 'Small Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding item 'Slag' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Adding plan 'shell'
+INFO: Removing 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to Bullet
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Empty Shell
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bayonet
+INFO: Adding recipe for Glass Bottle
+INFO: Adding item 'Bloomery' to heated items with melting point '1000.0' and specific heat '0.25' to yeild 'Bronze Double Sheet'
+INFO: Adding item 'Blast Furnace' to heated items with melting point '1540.0' and specific heat '0.25' to yeild 'Wrought Iron Double Sheet'
+INFO: Adding plan 'doublesheet'
+INFO: Setting localization for the key: gui.plans.doublesheet to Uncrafting
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Howitzer
+INFO: Translating item.Red Alloy Ingot.name to Metal Press Mold: Weld
+INFO: Adding Metal Press Recipe for Bismuth Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Blue Steel Double Ingot
+INFO: Adding Metal Press Recipe for Black Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Black Steel Double Ingot
+INFO: Adding Metal Press Recipe for Steel Double Ingot
+INFO: Adding Metal Press Recipe for Red Steel Double Ingot
+INFO: Adding Metal Press Recipe for Rose Gold Double Ingot
+INFO: Adding Metal Press Recipe for Tin Double Ingot
+INFO: Adding Metal Press Recipe for Zinc Double Ingot
+INFO: Adding Metal Press Recipe for Copper Double Ingot
+INFO: Adding Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Adding Metal Press Recipe for Nickel Double Ingot
+INFO: Adding Metal Press Recipe for Aluminum Double Ingot
+INFO: Adding Metal Press Recipe for Electrum Double Ingot
+INFO: Adding Metal Press Recipe for Constantan Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Double Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Double Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Black Steel Double Sheet
+INFO: Adding Metal Press Recipe for Steel Double Sheet
+INFO: Adding Metal Press Recipe for Red Steel Double Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Double Sheet
+INFO: Adding Metal Press Recipe for Tin Double Sheet
+INFO: Adding Metal Press Recipe for Zinc Double Sheet
+INFO: Adding Metal Press Recipe for Copper Double Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Adding Metal Press Recipe for Nickel Double Sheet
+INFO: Adding Metal Press Recipe for Aluminum Double Sheet
+INFO: Adding Metal Press Recipe for Electrum Double Sheet
+INFO: Adding Metal Press Recipe for Constantan Double Sheet
+INFO: Removing MineralMix: Nickel
+INFO: Removing MineralMix: Bauxite
+INFO: Removing MineralMix: Lead
+INFO: Removing MineralMix: Pyrite
+INFO: Removing MineralMix: Gold
+INFO: Removing MineralMix: Iron
+INFO: Removing MineralMix: Galena
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Copper
+INFO: Removing MineralMix: Uranium
+INFO: Removing MineralMix: Lapis
+INFO: Removing MineralMix: Silver
+INFO: Removing MineralMix: Quartzite
+INFO: Removing MineralMix: Magnetite
+INFO: Removing MineralMix: Platinum
+INFO: Adding MineralMix: Iron with weight 20
+INFO: Adding MineralMix: Coal with weight 55
+INFO: Registering fluid: content.
+INFO: Registering fluid: refinded oil.
+INFO: Registering block: Oil Sand.
+INFO: Registering item: Crushed Oilsand.
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Grade Crossing
+INFO: Adding recipe for Large parallel lane
+INFO: Adding recipe for Medium parallel lane
+INFO: Adding recipe for Small parallel lane
+INFO: Adding recipe for Large parallel switch
+INFO: Adding recipe for Medium parallel switch
+INFO: Adding recipe for Prybar
+INFO: Adding recipe for Small parallel switch
+INFO: Adding recipe for 1/50 slope
+INFO: Adding recipe for 1/25 slope
+INFO: Adding recipe for 1/12 slope
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre switch
+INFO: Adding recipe for 60 metre switch
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre turn
+INFO: Adding recipe for 60 metre turn
+INFO: Adding recipe for 30 metre turn
+INFO: Adding recipe for Buffer stop
+INFO: Adding recipe for 30 metre switch
+INFO: Adding recipe for Crossing
+INFO: Adding recipe for Straight track
+INFO: Adding recipe for Straight track
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Registering block: Enhanced Gravel.
+WARNING: 2 modifications were stuck
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Cannot remove blocks during runtime.
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Straight track
+INFO: Removing recipe for Crossing
+INFO: Removing recipe for 30 metre switch
+INFO: Removing recipe for Buffer stop
+INFO: Removing recipe for 30 metre turn
+INFO: Removing recipe for 60 metre turn
+INFO: Removing recipe for 90 metre turn
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 60 metre switch
+INFO: Removing recipe for 90 metre switch
+INFO: Removing recipe for Diagonal track
+INFO: Removing recipe for 1/12 slope
+INFO: Removing recipe for 1/25 slope
+INFO: Removing recipe for 1/50 slope
+INFO: Removing recipe for Small parallel switch
+INFO: Removing recipe for Prybar
+INFO: Removing recipe for Medium parallel switch
+INFO: Removing recipe for Large parallel switch
+INFO: Removing recipe for Small parallel lane
+INFO: Removing recipe for Medium parallel lane
+INFO: Removing recipe for Large parallel lane
+INFO: Removing recipe for Grade Crossing
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Cannot remove items during runtime.
+INFO: Cannot remove blocks during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Cannot remove fluids during runtime.
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Iron
+INFO: Re-Adding MineralMix: Platinum
+INFO: Re-Adding MineralMix: Magnetite
+INFO: Re-Adding MineralMix: Quartzite
+INFO: Re-Adding MineralMix: Silver
+INFO: Re-Adding MineralMix: Lapis
+INFO: Re-Adding MineralMix: Uranium
+INFO: Re-Adding MineralMix: Copper
+INFO: Re-Adding MineralMix: Coal
+INFO: Re-Adding MineralMix: Galena
+INFO: Re-Adding MineralMix: Iron
+INFO: Re-Adding MineralMix: Gold
+INFO: Re-Adding MineralMix: Pyrite
+INFO: Re-Adding MineralMix: Lead
+INFO: Re-Adding MineralMix: Bauxite
+INFO: Re-Adding MineralMix: Nickel
+INFO: Removing Metal Press Recipe for Constantan Double Sheet
+INFO: Removing Metal Press Recipe for Electrum Double Sheet
+INFO: Removing Metal Press Recipe for Aluminum Double Sheet
+INFO: Removing Metal Press Recipe for Nickel Double Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Removing Metal Press Recipe for Copper Double Sheet
+INFO: Removing Metal Press Recipe for Zinc Double Sheet
+INFO: Removing Metal Press Recipe for Tin Double Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Double Sheet
+INFO: Removing Metal Press Recipe for Red Steel Double Sheet
+INFO: Removing Metal Press Recipe for Steel Double Sheet
+INFO: Removing Metal Press Recipe for Black Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Removing Metal Press Recipe for Bismuth Double Sheet
+INFO: Removing Metal Press Recipe for Constantan Double Ingot
+INFO: Removing Metal Press Recipe for Electrum Double Ingot
+INFO: Removing Metal Press Recipe for Aluminum Double Ingot
+INFO: Removing Metal Press Recipe for Nickel Double Ingot
+INFO: Removing Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Removing Metal Press Recipe for Copper Double Ingot
+INFO: Removing Metal Press Recipe for Zinc Double Ingot
+INFO: Removing Metal Press Recipe for Tin Double Ingot
+INFO: Removing Metal Press Recipe for Rose Gold Double Ingot
+INFO: Removing Metal Press Recipe for Red Steel Double Ingot
+INFO: Removing Metal Press Recipe for Steel Double Ingot
+INFO: Removing Metal Press Recipe for Black Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Black Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Blue Steel Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Removing Metal Press Recipe for Bismuth Double Ingot
+INFO: Reverting item.Red Alloy Ingot.name to Red Alloy Ingot
+INFO: Removing recipe for Howitzer
+INFO: Restoring 1 recipes
+INFO: Removing 'Blast Furnace' to anvil yeild 'Wrought Iron Double Sheet'
+INFO: Removing 'Bloomery' to anvil yeild 'Bronze Double Sheet'
+INFO: Setting localization for the key: gui.plans.doublesheet to null
+INFO: Removing plan 'doublesheet'
+INFO: Removing item 'Blast Furnace' from heated items with melting point '1540.0' and specific heat '0.25' yeilding 'Wrought Iron Double Sheet'
+INFO: Removing item 'Bloomery' from heated items with melting point '1000.0' and specific heat '0.25' yeilding 'Bronze Double Sheet'
+INFO: Removing recipe for Glass Bottle
+INFO: Removing recipe for Bayonet
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Empty Shell
+INFO: Restoring 1 recipes
+INFO: Removing 'Brass Sheet' to anvil yeild 'Empty Casing'
+INFO: Setting localization for the key: gui.plans.shell to null
+INFO: Restoring 1 recipes
+INFO: Removing plan 'shell'
+INFO: Removing item 'Slag' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing Crusher Recipe for Iron Dust
+INFO: Removing item 'Poor Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Limonite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Hematite' from the Quern yeilding 'Iron Dust'
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing recipe for Iron Dust
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Removing recipe for Satinspar
+INFO: Removing recipe for Satinspar
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to null
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Pig Iron Ingot
+INFO: Re-Adding Blast Furnace Recipe for Block of Steel
+INFO: Re-Adding Blast Furnace Recipe for Steel Ingot
+INFO: Removing Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Coal Coke as Blast Furnace Fuel
+INFO: Removing Charcoal as Blast Furnace Fuel
+INFO: Re-Adding 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Re-Adding 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Wrought Iron Ingot' to the Quern to yeild 'Iron Dust'
+INFO: Setting localization for the key: tfcm:item.IronDust to null
+INFO: Removing item 'Chalk Powder' with 'Limewater' from barrel
+INFO: Removing Crusher Recipe for Chalk Powder
+INFO: Removing item 'Gypsum' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Chalk Powder'
+INFO: Adding item 'Chalk Rock' to the Quern to yeild 'Chalk Powder'
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to null
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Scale Weight
+INFO: Removing recipe for Coke Brick
+INFO: Restoring 1 recipes
+INFO: Removing 'Wrought Iron Double Sheet' to anvil yeild 'Minecart'
+INFO: Setting localization for the key: gui.plans.minecart to null
+INFO: Removing plan 'minecart'
+INFO: Restoring 1 recipes
+INFO: Reverting tile.stairsSandStone.name to Sandstone Stairs
+INFO: Reverting tile.stoneSlab.sand.name to Sandstone Slab
+INFO: Reverting tile.sandStone.smooth.name to Smooth Sandstone
+INFO: Reverting tile.sandStone.chiseled.name to Chiseled Sandstone
+INFO: Reverting tile.sandStone.default.name to Sandstone
+INFO: Reverting item.coal.name to Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Coal
+INFO: Removing recipe for Airship
+INFO: Removing recipe for Steam Boat
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engine
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Vulcanizing Agents
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Piston
+INFO: Restoring 1 recipes
+INFO: Removing Metal Press Recipe for Constantan Sheet
+INFO: Removing Metal Press Recipe for Electrum Sheet
+INFO: Removing Metal Press Recipe for Aluminum Sheet
+INFO: Removing Metal Press Recipe for Nickel Sheet
+INFO: Removing Metal Press Recipe for Wrought Iron Sheet
+INFO: Removing Metal Press Recipe for Copper Sheet
+INFO: Removing Metal Press Recipe for Zinc Sheet
+INFO: Removing Metal Press Recipe for Tin Sheet
+INFO: Removing Metal Press Recipe for Rose Gold Sheet
+INFO: Removing Metal Press Recipe for Red Steel Sheet
+INFO: Removing Metal Press Recipe for Steel Sheet
+INFO: Removing Metal Press Recipe for Black Steel Sheet
+INFO: Removing Metal Press Recipe for Bronze Sheet
+INFO: Removing Metal Press Recipe for Black Bronze Sheet
+INFO: Removing Metal Press Recipe for Blue Steel Sheet
+INFO: Removing Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Removing Metal Press Recipe for Bismuth Sheet
+INFO: Re-Adding Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Removing recipe for Tough Fabric
+INFO: Removing recipe for Wooden Post
+INFO: Removing recipe for Hempcrete
+INFO: Removing recipe for Breaker Switch
+INFO: Removing recipe for Current Transformer
+INFO: Removing recipe for Balloon
+INFO: Removing recipe for Engineer's Workbench
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Aluminium Plate
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Removing recipe for Glowstone
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Jack o'Lantern
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Conveyor Belt
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Reinforced Blast Brick
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Capacitor Electrode
+INFO: Restoring 1 recipes
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 1 Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: [Stuck] 2 null
+INFO: [Stuck] 3 straywolfe.tfctweaker.handlers.Barrel$removeItemFluidConversionAction@1b282622
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Deep Freezer
+INFO: Removing recipe for Fridge
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Wooden Club
+INFO: Restoring 1 recipes
+INFO: Removing Crusher Recipe for Redstone
+INFO: Removing Crusher Recipe for Redstone
+INFO: Re-Adding Crusher Recipe for Redstone
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Graphite Powder
+INFO: Re-Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Removing recipe for Concrete
+INFO: Removing recipe for Concrete
+INFO: Restoring 4 recipes
+INFO: Removing recipe for Sandstone
+INFO: Restoring 3 recipes
+INFO: Removing recipe for Fruit Press
+INFO: Removing recipe for Hopper
+INFO: Removing recipe for Hopper
+INFO: Restoring 0 recipes
+INFO: Removing recipe for Cart Wheel
+INFO: Removing recipe for Engine Wheel
+INFO: Removing recipe for Handcar
+INFO: Removing recipe for Cherepanov's engine
+INFO: Removing recipe for Small Funnel
+INFO: Removing recipe for Large Funnel
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Large Funnel
+INFO: Adding recipe for Small Funnel
+INFO: Adding recipe for Cherepanov's engine
+INFO: Adding recipe for Handcar
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Removing 0 recipes
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Hopper
+INFO: Adding recipe for Fruit Press
+INFO: Removing 3 recipes
+INFO: Adding recipe for Sandstone
+INFO: Removing 4 recipes
+INFO: Adding recipe for Concrete
+INFO: Adding recipe for Concrete
+INFO: Removing item 'Graphite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Graphite Powder'
+INFO: Removing item 'Kaolinite' from the Quern yeilding 'Kaolinite Powder'
+INFO: Adding item 'Graphite' to the Quern to yeild 'Graphite Powder'
+INFO: Adding item 'Kaolinite' to the Quern to yeild 'Kaolinite Powder'
+INFO: Removing Crusher Recipe for Kaolinite Powder
+INFO: Removing Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Graphite Powder
+INFO: Adding Crusher Recipe for Kaolinite Powder
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Redstone'
+INFO: Removing item 'Cryolite' from the Quern yeilding 'Redstone'
+INFO: Adding item 'Cinnabar' to the Quern to yeild 'Redstone'
+INFO: Adding item 'Cryolite' to the Quern to yeild 'Redstone'
+INFO: Removing Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Adding Crusher Recipe for Redstone
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wooden Club
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Fridge
+INFO: Adding recipe for Deep Freezer
+INFO: Adding recipe for Deep Freezer
+INFO: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding item 'Jute' with 'Fresh Water' to barrel yeilding 'Jute Fiber'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Capacitor Electrode
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Reinforced Blast Brick
+INFO: Removing 1 recipes
+INFO: Adding recipe for Conveyor Belt
+INFO: Removing 1 recipes
+INFO: Adding recipe for Jack o'Lantern
+INFO: Removing 1 recipes
+INFO: Adding recipe for Glowstone
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Aluminium Plate
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engineer's Workbench
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Current Transformer
+INFO: Adding recipe for Breaker Switch
+INFO: Adding recipe for Hempcrete
+INFO: Adding recipe for Wooden Post
+INFO: Adding recipe for Tough Fabric
+INFO: Removing Metal Press Recipes for Mold: Metal Press Mold: Plate
+INFO: Adding Metal Press Recipe for Bismuth Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Sheet
+INFO: Adding Metal Press Recipe for Bronze Sheet
+INFO: Adding Metal Press Recipe for Black Steel Sheet
+INFO: Adding Metal Press Recipe for Steel Sheet
+INFO: Adding Metal Press Recipe for Red Steel Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Sheet
+INFO: Adding Metal Press Recipe for Tin Sheet
+INFO: Adding Metal Press Recipe for Zinc Sheet
+INFO: Adding Metal Press Recipe for Copper Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Sheet
+INFO: Adding Metal Press Recipe for Nickel Sheet
+INFO: Adding Metal Press Recipe for Aluminum Sheet
+INFO: Adding Metal Press Recipe for Electrum Sheet
+INFO: Adding Metal Press Recipe for Constantan Sheet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Piston
+INFO: Removing 1 recipes
+INFO: Adding recipe for Vulcanizing Agents
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Engine
+INFO: Adding recipe for Balloon
+INFO: Adding recipe for Steam Boat
+INFO: Adding recipe for Airship
+INFO: Adding recipe for Coal
+INFO: Adding recipe for Coal
+INFO: Translating item.coal.name to Fuel
+INFO: Translating tile.sandStone.default.name to Hardened Sand
+INFO: Translating tile.sandStone.chiseled.name to Sculpted Hardened Sand
+INFO: Translating tile.sandStone.smooth.name to Smoothened Hardened Sand
+INFO: Translating tile.stoneSlab.sand.name to Hardened Sand Slab
+INFO: Translating tile.stairsSandStone.name to Hardened Sand Stairs
+INFO: Removing 1 recipes
+INFO: Adding plan 'minecart'
+INFO: Setting localization for the key: gui.plans.minecart to Minecart
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Coke Brick
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Adding recipe for Scale Weight
+INFO: Setting localization for the key: tfctech:item.Chalk Powder to Gypsum Powder
+INFO: Removing item 'Chalk Rock' from the Quern yeilding 'Chalk Powder'
+INFO: Removing item 'Cinnabar' from the Quern yeilding 'Chalk Powder'
+INFO: Adding item 'Gypsum' to the Quern to yeild 'Chalk Powder'
+INFO: Adding Crusher Recipe for Chalk Powder
+INFO: Adding item 'Chalk Powder' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Setting localization for the key: tfcm:item.IronDust to Powdered Iron Ore
+INFO: Removing item 'Wrought Iron Ingot' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Small Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Poor Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing item 'Rich Magnetite' from the Quern yeilding 'Iron Dust'
+INFO: Removing 1xitem.coal@1 as Blast Furnace Fuel
+INFO: Removing 1xitem.ImmersiveEngineering.material@6 as Blast Furnace Fuel
+INFO: Removing 1xtile.ImmersiveEngineering.stoneDecoration@3 as Blast Furnace Fuel
+INFO: Adding Charcoal as Blast Furnace Fuel
+INFO: Adding Coal Coke as Blast Furnace Fuel
+INFO: Adding Block of Coal Coke as Blast Furnace Fuel
+INFO: Removing Blast Furnace Recipe for Steel Ingot
+INFO: Removing Blast Furnace Recipe for Block of Steel
+INFO: Adding Blast Furnace Recipe for Pig Iron Ingot
+INFO: Adding Blast Furnace Recipe for Steel Ingot
+INFO: Setting localization for the key: terrafirmacraft:item.Ore:18 to Iron Ore Pellet
+INFO: Adding recipe for Satinspar
+INFO: Adding recipe for Satinspar
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding Blast Furnace Recipe for Wrought Iron Ingot
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding recipe for Iron Dust
+INFO: Adding item 'Small Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Small Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Rich Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Hematite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Magnetite' to the Quern to yeild 'Iron Dust'
+INFO: Adding item 'Poor Limonite' to the Quern to yeild 'Iron Dust'
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding Crusher Recipe for Iron Dust
+INFO: Adding item 'Slag' with 'Limewater' to barrel yeilding 'Mortar'
+INFO: Adding plan 'shell'
+INFO: Removing 1 recipes
+INFO: Setting localization for the key: gui.plans.shell to Bullet
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Empty Shell
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bayonet
+INFO: Adding recipe for Glass Bottle
+INFO: Adding item 'Bloomery' to heated items with melting point '1000.0' and specific heat '0.25' to yeild 'Bronze Double Sheet'
+INFO: Adding item 'Blast Furnace' to heated items with melting point '1540.0' and specific heat '0.25' to yeild 'Wrought Iron Double Sheet'
+INFO: Adding plan 'doublesheet'
+INFO: Setting localization for the key: gui.plans.doublesheet to Uncrafting
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'
+INFO: Removing 1 recipes
+INFO: Adding recipe for Howitzer
+INFO: Translating item.Red Alloy Ingot.name to Metal Press Mold: Weld
+INFO: Adding Metal Press Recipe for Bismuth Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Blue Steel Double Ingot
+INFO: Adding Metal Press Recipe for Black Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Bronze Double Ingot
+INFO: Adding Metal Press Recipe for Black Steel Double Ingot
+INFO: Adding Metal Press Recipe for Steel Double Ingot
+INFO: Adding Metal Press Recipe for Red Steel Double Ingot
+INFO: Adding Metal Press Recipe for Rose Gold Double Ingot
+INFO: Adding Metal Press Recipe for Tin Double Ingot
+INFO: Adding Metal Press Recipe for Zinc Double Ingot
+INFO: Adding Metal Press Recipe for Copper Double Ingot
+INFO: Adding Metal Press Recipe for Wrought Iron Double Ingot
+INFO: Adding Metal Press Recipe for Nickel Double Ingot
+INFO: Adding Metal Press Recipe for Aluminum Double Ingot
+INFO: Adding Metal Press Recipe for Electrum Double Ingot
+INFO: Adding Metal Press Recipe for Constantan Double Ingot
+INFO: Adding Metal Press Recipe for Bismuth Double Sheet
+INFO: Adding Metal Press Recipe for Bismuth Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Blue Steel Double Sheet
+INFO: Adding Metal Press Recipe for Black Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Bronze Double Sheet
+INFO: Adding Metal Press Recipe for Black Steel Double Sheet
+INFO: Adding Metal Press Recipe for Steel Double Sheet
+INFO: Adding Metal Press Recipe for Red Steel Double Sheet
+INFO: Adding Metal Press Recipe for Rose Gold Double Sheet
+INFO: Adding Metal Press Recipe for Tin Double Sheet
+INFO: Adding Metal Press Recipe for Zinc Double Sheet
+INFO: Adding Metal Press Recipe for Copper Double Sheet
+INFO: Adding Metal Press Recipe for Wrought Iron Double Sheet
+INFO: Adding Metal Press Recipe for Nickel Double Sheet
+INFO: Adding Metal Press Recipe for Aluminum Double Sheet
+INFO: Adding Metal Press Recipe for Electrum Double Sheet
+INFO: Adding Metal Press Recipe for Constantan Double Sheet
+INFO: Removing MineralMix: Nickel
+INFO: Removing MineralMix: Bauxite
+INFO: Removing MineralMix: Lead
+INFO: Removing MineralMix: Pyrite
+INFO: Removing MineralMix: Gold
+INFO: Removing MineralMix: Iron
+INFO: Removing MineralMix: Galena
+INFO: Removing MineralMix: Coal
+INFO: Removing MineralMix: Copper
+INFO: Removing MineralMix: Uranium
+INFO: Removing MineralMix: Lapis
+INFO: Removing MineralMix: Silver
+INFO: Removing MineralMix: Quartzite
+INFO: Removing MineralMix: Magnetite
+INFO: Removing MineralMix: Platinum
+INFO: Adding MineralMix: Iron with weight 20
+INFO: Adding MineralMix: Coal with weight 55
+INFO: Registering fluid: content.
+INFO: Registering fluid: refinded oil.
+INFO: Registering block: Oil Sand.
+INFO: Registering item: Crushed Oilsand.
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Grade Crossing
+INFO: Adding recipe for Large parallel lane
+INFO: Adding recipe for Medium parallel lane
+INFO: Adding recipe for Small parallel lane
+INFO: Adding recipe for Large parallel switch
+INFO: Adding recipe for Medium parallel switch
+INFO: Adding recipe for Prybar
+INFO: Adding recipe for Small parallel switch
+INFO: Adding recipe for 1/50 slope
+INFO: Adding recipe for 1/25 slope
+INFO: Adding recipe for 1/12 slope
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre switch
+INFO: Adding recipe for 60 metre switch
+INFO: Adding recipe for Diagonal track
+INFO: Adding recipe for 90 metre turn
+INFO: Adding recipe for 60 metre turn
+INFO: Adding recipe for 30 metre turn
+INFO: Adding recipe for Buffer stop
+INFO: Adding recipe for 30 metre switch
+INFO: Adding recipe for Crossing
+INFO: Adding recipe for Straight track
+INFO: Adding recipe for Straight track
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Engine Wheel
+INFO: Adding recipe for Cart Wheel
+INFO: Registering block: Enhanced Gravel.
+WARNING: 3 modifications were stuck
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Stuck: Removing item 'Jute' with 'Fresh Water' from barrel
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'
+INFO: Adding 'Wrought Iron Double Sheet' to anvil yeilding 'Minecart'
+INFO: Adding 'Brass Sheet' to anvil yeilding 'Empty Casing'
+INFO: Adding 'Bloomery' to anvil yeilding 'Bronze Double Sheet'
+INFO: Adding 'Blast Furnace' to anvil yeilding 'Wrought Iron Double Sheet'

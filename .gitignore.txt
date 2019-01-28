@@ -1,0 +1,11 @@
+backups
+asm
+contentScripts
+crash-reports
+journeymap
+local
+logs
+MineMenu
+modpack
+saves
+usernamecache

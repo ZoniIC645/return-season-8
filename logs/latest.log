@@ -1,0 +1,1036 @@
+[18:06:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:06:23] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:06:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:06:23] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[18:06:23] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\micha_000\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_51
+[18:06:23] [main/WARN]: The coremod com.bioxx.tfc.TFCASMLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/INFO]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.0.1.jar
+[18:06:23] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/WARN]: The coremod farseek.core.FarseekCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/INFO]: Loading tweaker fastcraft.Tweaker from fastcraft-1.25.jar
+[18:06:23] [main/WARN]: The coremod nemocraft.hangul.HangulPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_D6.jar
+[18:06:23] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/WARN]: The coremod com.teamderpy.shouldersurfing.asm.ShoulderPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:06:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:06:23] [main/INFO]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:06:23] [main/INFO]: Loading tweak class name fastcraft.Tweaker
+[18:06:23] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:06:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:06:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:06:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:06:23] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:06:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:06:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[18:06:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:266]: OptiFine ClassTransformer
+[18:06:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:266]: OptiFine URL: file:/C:/Users/micha_000/Documents/Curse/Minecraft/Instances/return%20season%208/mods/OptiFine_1.7.10_HD_U_D6.jar
+[18:06:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:266]: OptiFine ZIP file: C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\mods\OptiFine_1.7.10_HD_U_D6.jar
+[18:06:23] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:06:25] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:25] [main/INFO]: Loaded mappings for Minecraft 1.7.10
+[18:06:25] [main/INFO]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:06:25] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:26] [main/INFO]: Starting to apply transformations
+[18:06:26] [main/INFO]: Starting to apply transformations
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:06:26] [main/INFO]: Calling tweak class fastcraft.Tweaker
+[18:06:26] [main/INFO]: FastCraft loaded.
+[18:06:26] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[18:06:26] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[18:06:26] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:06:26] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:06:26] [main/INFO]: Injecting into obfuscated code
+[18:06:26] [main/INFO]: Located method p()V, locating signature
+[18:06:26] [main/INFO]: Injected code new third person mode!
+[18:06:26] [main/INFO]: Patching Game Start...
+[18:06:26] [main/INFO]: GuiScreenTransformer: Trying to hook the GuiScreen methods handleMouseInput() and handleKeyboardInput()
+[18:06:26] [main/INFO]: Obfuscated: true
+[18:06:26] [main/INFO]: GuiScreenTransformer: Hooking the handleMouseInput() method
+[18:06:26] [main/INFO]: GuiScreenTransformer: Hooking the handleKeyboardInput() method
+[18:06:26] [main/INFO]: GuiScreenTransformer: Finished hooking the GuiScreen#handleInput() method
+[18:06:27] [main/INFO]: Attempting to Transform: yz | Found 2 injections
+[18:06:27] [main/INFO]: Inserted: yz : {e | (FF)V}
+[18:06:27] [main/INFO]: Inserted: yz : {b | (Ladd;I)Lrf;}
+[18:06:27] [main/INFO]: Attempting to Transform: yz Complete
+[18:06:28] [main/INFO]: Setting user: ZoNiIc645
+[18:06:28] [main/INFO]: Transforming Class [net.minecraft.entity.projectile.EntityArrow], Method [func_70071_h_]
+[18:06:28] [main/INFO]: Transforming net.minecraft.entity.projectile.EntityArrow Finished.
+[18:06:29] [main/INFO]: Attempting to Transform: mw | Found 1 injections
+[18:06:29] [main/INFO]: Inserted: mw : {i | ()V}
+[18:06:29] [main/INFO]: Attempting to Transform: mw Complete
+[18:06:29] [main/INFO]: Attempting to Transform: su | Found 1 injections
+[18:06:29] [main/INFO]: Inserted: su : {e | ()Z}
+[18:06:29] [main/INFO]: Attempting to Transform: su Complete
+[18:06:29] [main/INFO]: Transforming Class [net.minecraft.item.ItemStack], Method [func_77953_t]
+[18:06:29] [main/INFO]: Transforming net.minecraft.item.ItemStack Finished.
+[18:06:29] [main/INFO]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[18:06:29] [main/INFO]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[18:06:29] [main/INFO]: Patching Minecraft using Riven's "Half" Algorithm
+[18:06:30] [Client thread/INFO]: Patching Key Event...
+[18:06:30] [Client thread/INFO]: Transforming Class [net.minecraft.inventory.ContainerRepair], Method [func_82848_d]
+[18:06:30] [Client thread/INFO]: Transforming net.minecraft.inventory.ContainerRepair Finished.
+[18:06:31] [Client thread/INFO]: Attempting to Transform: blt | Found 1 injections
+[18:06:31] [Client thread/INFO]: Inserted: blt : {d | ()V}
+[18:06:31] [Client thread/INFO]: Attempting to Transform: blt Complete
+[18:06:31] [Client thread/INFO]: Injecting into obfuscated code
+[18:06:31] [Client thread/INFO]: Located method h(F)V, locating signature
+[18:06:31] [Client thread/INFO]: Located offset @301
+[18:06:31] [Client thread/INFO]: Injected code for camera orientation!
+[18:06:31] [Client thread/INFO]: Located offset @501
+[18:06:31] [Client thread/INFO]: Injected code for alternative camera distance check!
+[18:06:31] [Client thread/INFO]: Injected code for ray trace!
+[18:06:31] [Client thread/INFO]: Located offset @378
+[18:06:31] [Client thread/INFO]: Injected code for camera distance check!
+[18:06:31] [Client thread/INFO]: Located method a(FJ)V, locating signature
+[18:06:31] [Client thread/INFO]: Located offset @243
+[18:06:31] [Client thread/INFO]: Injected code for raytrace projection!
+[18:06:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:06:32] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_D6, enabling compatibility features
+[18:06:32] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 1/28/19 6:06 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 362859144 bytes (346 MB) / 527433728 bytes (503 MB) up to 2863661056 bytes (2731 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx3072m -Xms256m -XX:PermSize=256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'Intel' Version: '4.2.0 - Build 10.18.10.3368' Renderer: 'Intel(R) HD Graphics 4600'
+[18:06:32] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[18:06:32] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[18:06:32] [Client thread/INFO]: Replaced 183 ore recipies
+[18:06:32] [Client thread/INFO]: Completed early MinecraftForge initialization
+[18:06:33] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[18:06:33] [Client thread/INFO]: Searching C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\mods for mods
+[18:06:33] [Client thread/INFO]: Also searching C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\mods\1.7.10 for mods
+[18:06:44] [Client thread/WARN]: Mod farseek is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.1
+[18:06:45] [Client thread/WARN]: Mod MTRM is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[18:06:45] [Client thread/WARN]: Mod pchan3 is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.7
+[18:06:45] [Client thread/WARN]: Mod streams is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.3.4
+[18:06:45] [Client thread/WARN]: Mod TerraFirmaCraftNEIplugin is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.3.25
+[18:06:45] [Client thread/INFO]: Forge Mod Loader has identified 58 mods to load
+[18:06:45] [Client thread/INFO]: Found mod(s) [ImmersiveEngineering] containing declared API package cofh.api (owned by CoFHLib) without associated API reference
+[18:06:46] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.138-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:06:46] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, tfc_coremod, CodeChickenCore, itemscroller-coremod, NotEnoughItems, FastCraft, lwstfc, terrafirmacraft, tfcm, tfcautomatedbellows, tfccellars, tfcprimitivetech, weightingscales, tfctech, tfcudarymod, BBG, betterboat, BiblioCraft, BiblioWoodsTFC, bookshelf, contenttweaker, cookingwithtfc, MineTweaker3, endercore, farseek, fluxedcore, FTBL, FTBT, FTBU, ImmersiveEngineering, itemscroller, journeymap, login_shield, MineMenu, MTRM, concheckrmd, modtweaker2, MouseTweaks, neiintegration, nemocrafthangul, neresources, pchan3, placeableitems, Quadrum, row, ResourceLoader, rowam, shouldersurfing, simpleautorun, streams, TerraFirmaCraftNEIplugin, tfcengineer, TFCTweaker, Waila, wailaplugins, wawla] at CLIENT
+[18:06:46] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, tfc_coremod, CodeChickenCore, itemscroller-coremod, NotEnoughItems, FastCraft, lwstfc, terrafirmacraft, tfcm, tfcautomatedbellows, tfccellars, tfcprimitivetech, weightingscales, tfctech, tfcudarymod, BBG, betterboat, BiblioCraft, BiblioWoodsTFC, bookshelf, contenttweaker, cookingwithtfc, MineTweaker3, endercore, farseek, fluxedcore, FTBL, FTBT, FTBU, ImmersiveEngineering, itemscroller, journeymap, login_shield, MineMenu, MTRM, concheckrmd, modtweaker2, MouseTweaks, neiintegration, nemocrafthangul, neresources, pchan3, placeableitems, Quadrum, row, ResourceLoader, rowam, shouldersurfing, simpleautorun, streams, TerraFirmaCraftNEIplugin, tfcengineer, TFCTweaker, Waila, wailaplugins, wawla] at SERVER
+[18:06:47] [Client thread/INFO]: Transforming Class [net.minecraft.world.WorldType], Method [func_76564_j]
+[18:06:47] [Client thread/INFO]: Transforming net.minecraft.world.WorldType Finished.
+[18:06:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Leather Water Sac, FMLFileResourcePack:TerraFirmaCraft, FMLFileResourcePack:TerraMisc, FMLFileResourcePack:AutomatedBellowsAddon, FMLFileResourcePack:CellarsAddon, FMLFileResourcePack:TFC Primitive Technology AddOn, FMLFileResourcePack:TFC Scales, FMLFileResourcePack:Shurgent's TFCTech Addon, FMLFileResourcePack:TFC Udary Mod, FMLFileResourcePack:BetterBedrockGen, FMLFileResourcePack:Better Boat, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoodsTFC, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:ContentTweaker, FMLFileResourcePack:Cooking with TFC, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Farseek, FMLFileResourcePack:Fluxed-Core, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTB Tweaks, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Item Scroller, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Login Shield, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Config Checker Mod, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:nemocraft Hangul, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:PChan3 mods, FMLFileResourcePack:Placeable Items Mod, FMLFileResourcePack:Quadrum, FMLFileResourcePack:Rails of War, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Rails of War Automation Module, FMLFileResourcePack:Shoulder Surfing, FMLFileResourcePack:SimpleAutoRun, FMLFileResourcePack:Streams, FMLFileResourcePack:TerraFirmaCraftNEIplugin, FMLFileResourcePack:TFC Engineer, FMLFileResourcePack:TFC Tweaker, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At
+[18:06:51] [Client thread/INFO]: Processing ObjectHolder annotations
+[18:06:51] [Client thread/INFO]: Found 336 ObjectHolder annotations
+[18:06:51] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[18:06:51] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[18:06:51] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[18:06:51] [Client thread/INFO]: FastCraft 1.25 loaded.
+[18:06:51] [Client thread/INFO]: Loading TFCConfig
+[18:06:51] [Client thread/INFO]: Loading Blocks
+[18:06:52] [Thread-10/INFO]: You are using the latest suitable version.
+[18:06:52] [Client thread/INFO]: Loading Items
+[18:06:53] [Client thread/INFO]: Registering Items
+[18:06:53] [Client thread/INFO]: Registering Food
+[18:06:53] [Client thread/INFO]: Registering Armor
+[18:06:53] [Client thread/INFO]: All Items Registered
+[18:06:53] [Client thread/INFO]: Finished Loading Items
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMOptions:loadSettings:25]: [TerraMisc] Loading options.
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMOptions:loadSettings:57]: [TerraMisc] Done loading options.
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMBlocks:initialise:30]: [TerraMisc] Registering Blocks
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMBlocks:initialise:34]: [TerraMisc] Done Registering Blocks
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMItemsSetup:ItemSetup:84]: [TerraMisc] Registering Items
+[18:06:53] [Client thread/INFO]: [terramisc.core.TFCMItemsSetup:ItemSetup:295]: [TerraMisc] Done Registering Items
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModOptions:loadSettings:16]: [TFCPrimitiveTech] Loading options.
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModOptions:loadSettings:39]: [TFCPrimitiveTech] Done loading options.
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModBlocks:initialise:22]: [TFCPrimitiveTech] Registering Blocks
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModBlocks:initialise:29]: [TFCPrimitiveTech] Done Registering Blocks
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModItems:initialise:41]: [TFCPrimitiveTech] Registering Items
+[18:06:53] [Client thread/INFO]: [tfcprimitivetech.core.ModItems:initialise:66]: [TFCPrimitiveTech] Done Registering Items
+[18:06:55] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.waila.WailaHelper@2a2c8b41
+[18:06:55] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.minetweaker.MTHelper@22d6b630
+[18:06:55] [Client thread/INFO]: Found mod [ImmersiveEngineering]
+[18:06:55] [Client thread/INFO]: Found mod [BiblioCraft]
+[18:06:55] [Client thread/INFO]: Found mod [NotEnoughItems]
+[18:06:55] [Client thread/INFO]: Loading options.
+[18:06:55] [Client thread/INFO]: Done loading options.
+[18:06:55] [Client thread/INFO]: Registering Blocks
+[18:06:55] [Client thread/INFO]: Done Registering Blocks
+[18:06:55] [Client thread/INFO]: Registering Items
+[18:06:55] [Client thread/INFO]: Done Registering Items
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModOptions:loadSettings:196]: [TFCUdaryMod] Loading options from configuration file.
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModOptions:loadSettings:270]: [TFCUdaryMod] Done loading options from configuration file.
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModBlocks:initialise:48]: [TFCUdaryMod] Registering Blocks
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModBlocks:initialise:53]: [TFCUdaryMod] Done Registering Blocks
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModFluids:initialise:50]: [TFCUdaryMod] Registering Fluids
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModFluids:initialise:54]: [TFCUdaryMod] Done Registering Fluids
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModItems:initialise:155]: [TFCUdaryMod] Registering Items
+[18:06:55] [Client thread/INFO]: [udary.tfcudarymod.core.ModItems:initialise:162]: [TFCUdaryMod] Done Registering Items
+[18:06:55] [Client thread/INFO]: Attempting to expand Enchantment List to 4096 spaces.
+[18:06:55] [Client thread/INFO]: The Enchantment List has successfully been expanded to 4096 spaces.
+[18:06:55] [Client thread/INFO]: Attempting to expand Potion Array to 256 spaces.
+[18:06:55] [Client thread/INFO]: The Potion array has successfully been expanded to 256 spaces.
+[18:06:56] [Client thread/INFO]: [minetweaker.runtime.MTTweaker:load:109]: Loading scripts
+[18:06:57] [Client thread/INFO]: Attempting to initialize texture error message interceptor.
+[18:06:57] [Client thread/INFO]: Loading FTBLib, v1.0.18.2
+[18:06:57] [Client thread/INFO]: OS: WINDOWS, 64bit: true
+[18:06:57] [Client thread/INFO]: Backups folder - C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\.\backups
+[18:06:57] [Client thread/INFO]: addCraftingGrids(): Added crafting grid slots for gui: net.minecraft.client.gui.inventory.GuiCrafting, slot: net.minecraft.inventory.SlotCrafting @ 0, grid: 1 - 9
+[18:06:57] [Client thread/INFO]: addCraftingGrids(): Added crafting grid slots for gui: net.minecraft.client.gui.inventory.GuiInventory, slot: net.minecraft.inventory.SlotCrafting @ 0, grid: 1 - 4
+[18:06:57] [Client thread/INFO]: addCraftingGrids(): Added crafting grid slots for gui: fi.dy.masa.enderutilities.gui.client.GuiHandyBag, slot: fi.dy.masa.enderutilities.inventory.slot.SlotItemHandlerCraftresult @ 100, grid: 101 - 104
+[18:06:57] [Client thread/INFO]: addCraftingGrids(): Added crafting grid slots for gui: fi.dy.masa.enderutilities.gui.client.GuiCreationStation, slot: fi.dy.masa.enderutilities.inventory.slot.SlotItemHandlerCraftresult @ 40, grid: 31 - 39
+[18:06:57] [Client thread/INFO]: addCraftingGrids(): Added crafting grid slots for gui: fi.dy.masa.enderutilities.gui.client.GuiCreationStation, slot: fi.dy.masa.enderutilities.inventory.slot.SlotItemHandlerCraftresult @ 50, grid: 41 - 49
+[18:06:57] [Client thread/INFO]: Starting PreInitialization for modtweaker2
+[18:06:57] [Client thread/INFO]: Starting NEI Integration
+[18:06:57] [Client thread/INFO]: Loading configuration files
+[18:06:57] [Client thread/INFO]: Loading configs..
+[18:06:57] [Client thread/INFO]: Updating ModMetaData...
+[18:06:57] [Client thread/INFO]: Registering Network Messages...
+[18:06:57] [Client thread/INFO]: Requesting Sync...
+[18:06:57] [Client thread/INFO]: Registering Events...
+[18:06:57] [Client thread/INFO]: [RoW] Done loading the config
+[18:06:58] [Client thread/INFO]: Updating TerraFirmaCraftNEIplugin modules...
+[18:06:58] [Client thread/INFO]: [fair.tfcengineer.TFCEngineer:preInit:36]: TFCEngineer: Pre init
+[18:06:58] [Client thread/INFO]: Beginning plugin registration: 14 candidates found.
+[18:06:58] [Client thread/INFO]: Attempting to create plugin IFluidHandler.
+[18:06:58] [Client thread/INFO]: Successfully created plugin IFluidHandler.
+[18:06:58] [Client thread/INFO]: Skipping over plugin magicalcrops as its dependencies [magicalcrops] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin TE Augments as its dependencies [ThermalExpansion] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin ExtraUtilities as its dependencies [ExtraUtilities] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin ResourcefulCrops as its dependencies [ResourcefulCrops] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Forestry as its dependencies [Forestry] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Steamcraft as its dependencies [Steamcraft] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin MFR as its dependencies [MineFactoryReloaded] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Blood Magic as its dependencies [AWWayofTime] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin RedLogic as its dependencies [RedLogic] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Mekanism as its dependencies [Mekanism] were not found.
+[18:06:58] [Client thread/INFO]: Attempting to create plugin DSU.
+[18:06:58] [Client thread/INFO]: Successfully created plugin DSU.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Pam's Fruit as its dependencies [harvestcraft] were not found.
+[18:06:58] [Client thread/INFO]: Skipping over plugin Railcraft as its dependencies [Railcraft] were not found.
+[18:06:58] [Client thread/INFO]: Sorting plugins. Before: [IFluidHandler, DSU]
+[18:06:58] [Client thread/INFO]: Sorting plugins. After:  [IFluidHandler, DSU]
+[18:06:58] [Client thread/INFO]: Successfully loaded plugin IFluidHandler.
+[18:06:58] [Client thread/INFO]: Successfully loaded plugin DSU.
+[18:06:58] [Client thread/INFO]: Completed plugin registration. 2 plugins registered.
+[18:06:58] [Client thread/INFO]: Applying holder lookups
+[18:06:58] [Client thread/INFO]: Holder lookups applied
+[18:06:58] [Client thread/INFO]: Injecting itemstacks
+[18:06:58] [Client thread/INFO]: Itemstack injection complete
+[18:06:58] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:06:58] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[18:06:58] [Thread-11/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[18:06:58] [Thread-11/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:06:58] [Thread-11/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[18:06:59] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:06:59] [Sound Library Loader/INFO]: Sound engine started
+[18:07:01] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[18:07:01] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[18:07:01] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:01] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[18:07:01] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[18:07:01] [Client thread/INFO]: Loading TFCCrafting
+[18:07:01] [Client thread/INFO]: [terramisc.core.TFCMRecipes:initialise:72]: [TerraMisc] Registering Recipes
+[18:07:01] [Client thread/INFO]: [terramisc.core.TFCMRecipes:initialise:83]: [TerraMisc] Done Registering Recipes
+[18:07:01] [Client thread/INFO]: [terramisc.core.TFCMCommonProxy:registerWailaClasses:149]: [TerraMisc] Registering WAILA Classes (TFCM)
+[18:07:01] [Client thread/INFO]: [terramisc.core.TFCMCommonProxy:registerWailaClasses:153]: [TerraMisc] Done Registering WAILA Classes (TFCM)
+[18:07:02] [Client thread/INFO]: [tfcprimitivetech.core.ModRecipes:initialise:51]: [TFCPrimitiveTech] Registering Recipes
+[18:07:02] [Client thread/INFO]: [tfcprimitivetech.core.ModRecipes:initialise:61]: [TFCPrimitiveTech] Done Registering Recipes
+[18:07:03] [Client thread/INFO]: Attempting to extend PotionArray by 4
+[18:07:03] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[18:07:03] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:03] [Client thread/INFO]: Registering Ore Dictionary
+[18:07:03] [Client thread/INFO]: Done Registering Ore Dictionary
+[18:07:03] [Client thread/INFO]: Registering Recipes
+[18:07:04] [Client thread/INFO]: Done Registering Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselAnodiseManager:initialise:66]: [TFCUdaryMod] Registering Anodising Vessel Anodise Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselAnodiseManager:initialise:70]: [TFCUdaryMod] Total Recipes Registered: 10
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselAnodiseManager:initialise:71]: [TFCUdaryMod] Done Registering Anodising Vessel Anodise Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselFluidManager:initialise:35]: [TFCUdaryMod] Registering Anodising Vessel Fluid Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselFluidManager:initialise:39]: [TFCUdaryMod] Total Recipes Registered: 2
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.AnodisingVesselFluidManager:initialise:40]: [TFCUdaryMod] Done Registering Anodising Vessel Fluid Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.DryingMatManager:initialise:44]: [TFCUdaryMod] Registering Drying Mat Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.DryingMatManager:initialise:48]: [TFCUdaryMod] Total Recipes Registered: 37
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.DryingMatManager:initialise:49]: [TFCUdaryMod] Done Registering Drying Mat Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.EvaporatorPanManager:initialise:38]: [TFCUdaryMod] Registering Evaporation Pan Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.EvaporatorPanManager:initialise:42]: [TFCUdaryMod] Total Recipes Registered: 3
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.EvaporatorPanManager:initialise:43]: [TFCUdaryMod] Done Registering Evaporation Pan Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.OreCookerManager:initialise:39]: [TFCUdaryMod] Registering Ore Cooker Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.OreCookerManager:initialise:43]: [TFCUdaryMod] Total Recipes Registered: 4
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.OreCookerManager:initialise:44]: [TFCUdaryMod] Done Registering Ore Cooker Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.TuckerBagManager:initialise:45]: [TFCUdaryMod] Registering Tucker Bag Entity Classes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.TuckerBagManager:initialise:49]: [TFCUdaryMod] Total Entity Classes Registered: 5
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.TuckerBagManager:initialise:50]: [TFCUdaryMod] Done Registering Tucker Bag Entity Classes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.RenderManager:initialise:25]: [TFCUdaryMod] Registering Render Classes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.RenderManager:initialise:29]: [TFCUdaryMod] Total Renderers Registered: 2
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.managers.RenderManager:initialise:30]: [TFCUdaryMod] Done Registering Render Classes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModFluids:initialiseFluidContainers:59]: [TFCUdaryMod] Registering Fluid Containers
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModFluids:initialiseFluidContainers:63]: [TFCUdaryMod] Done Registering Fluid Containers
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModOreDictionary:initialise:42]: [TFCUdaryMod] Registering Ore Dictionary
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModOreDictionary:initialise:47]: [TFCUdaryMod] Done Registering Ore Dictionary
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialise:54]: [TFCUdaryMod] Registering Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialise:66]: [TFCUdaryMod] Done Registering Recipes
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModHeat:initialise:28]: [TFCUdaryMod] Registering Heat
+[18:07:04] [Client thread/INFO]: [udary.tfcudarymod.core.ModHeat:initialise:33]: [TFCUdaryMod] Done Registering Heat
+[18:07:04] [Client thread/INFO]: [udary.waila.terrafirmacraft.WailaTerraFirmaCraft:initialise:19]: [TFCUdaryMod] Registering WAILA Classes (TFC)
+[18:07:04] [Client thread/INFO]: [udary.waila.terrafirmacraft.WailaTerraFirmaCraft:initialise:23]: [TFCUdaryMod] Done Registering WAILA Classes (TFC)
+[18:07:04] [Client thread/INFO]: [udary.waila.tfcudarymod.WailaTFCUdaryMod:initialise:15]: [TFCUdaryMod] Registering WAILA Classes (Udary)
+[18:07:04] [Client thread/INFO]: [udary.waila.tfcudarymod.WailaTFCUdaryMod:initialise:19]: [TFCUdaryMod] Done Registering WAILA Classes (Udary)
+[18:07:04] [Client thread/INFO]: Transforming Class [cpw.mods.fml.client.GuiScrollingList], Method [drawScreen]
+[18:07:04] [Client thread/INFO]: Transforming cpw.mods.fml.client.GuiScrollingList Finished.
+[18:07:04] [Client thread/INFO]: Transforming Class [cpw.mods.fml.client.GuiSlotModList], Method [drawBackground]
+[18:07:04] [Client thread/INFO]: Transforming cpw.mods.fml.client.GuiSlotModList Finished.
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler EventHandlerGui to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler RightClickCropHandler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler OreDictTooltipHandler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler FireworkHandler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler EnchantTooltipHandler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler Scheduler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler XPBoostHandler to busses: [FORGE, FML]
+[18:07:04] [Client thread/INFO]: [Handlers] Registering handler ClientHandler to busses: [FORGE, FML]
+[18:07:05] [Client thread/INFO]: [Handlers] Registering handler AutoSmeltHandler to busses: [FORGE, FML]
+[18:07:05] [Client thread/INFO]: [Handlers] Registering handler SpecialTooltipHandler to busses: [FORGE, FML]
+[18:07:05] [Client thread/INFO]: Sending dummy event to all mods
+[18:07:05] [Client thread/INFO]: Reloading ingame configs for modid: endercore
+[18:07:05] [Client thread/INFO]: Reloading ingame configs for modid: wailaplugins
+[18:07:05] [Client thread/INFO]: JourneyMap log initialized.
+[18:07:05] [Client thread/INFO]: initialize ENTER
+[18:07:05] [Client thread/INFO]: Loaded CoreProperties from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.core.config
+[18:07:05] [Client thread/INFO]: Loaded FullMapProperties from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.fullmap.config
+[18:07:05] [Client thread/INFO]: Loaded MiniMapProperties from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.minimap.config
+[18:07:05] [Client thread/INFO]: Loaded MiniMapProperties2 from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.minimap2.config
+[18:07:05] [Client thread/INFO]: Loaded WebMapProperties from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.webmap.config
+[18:07:05] [Client thread/INFO]: Loaded WaypointProperties from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\config\5.1\journeymap.waypoint.config
+[18:07:05] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[18:07:05] [Client thread/INFO]: Starting Initialization for modtweaker2
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialise, entry point: FORGE.
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Obfuscation check, please ignore the following errors (if they come up).
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Could not retrieve field "mcProfiler" from class "net.minecraft.client.Minecraft"
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Obfuscation check completed.
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Successfully reflected CodeChickenCore!
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Successfully reflected NEI!
+[18:07:05] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialised.
+[18:07:05] [Client thread/INFO]: Started loading placeableitems version 2.0.1
+[18:07:09] [Client thread/INFO]: [fair.tfcengineer.TFCEngineer:init:55]: TFCEngineer: Init
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ terrafirmacraft ] for method com.bioxx.tfc.WAILA.WAILAData.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ terrafirmacraft ] for method com.bioxx.tfc.WAILA.WMobs.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ terrafirmacraft ] for method com.bioxx.tfc.WAILA.WCrucible.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcm ] for method terramisc.waila.TFCMWailaData.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcautomatedbellows ] for method sladki.tfc.ab.Handlers.WailaHandler.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcprimitivetech ] for method tfcprimitivetech.handlers.WailaHandler.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ ImmersiveEngineering ] for method blusunrize.immersiveengineering.common.util.compat.waila.IEWailaDataProvider.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfctech ] for method ua.pp.shurgent.tfctech.waila.WAILAData.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCAnvil.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCBarrel.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCBerryBush.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCBlastFurnace.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCClay.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCCrucible.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCDirt.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCFarmland.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCFirepit.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCFoodPrep.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCForge.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCFruitLeaves.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCFruitWood.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCGrass.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCGravel.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCGrill.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCHopper.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCIngotPile.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCLogPile.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCPottery.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCQuern.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCSand.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCSapling.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCSmokeRack.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCToolRack.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCTorch.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.blocks.TFCWorldItem.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.entities.TFCAnimal.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.terrafirmacraft.entities.TFCStand.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.blocks.WAlloyCalculator.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.blocks.WAnodisingVessel.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.blocks.WDryingMat.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.blocks.WEvaporatorPan.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.blocks.WOreCooker.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ tfcudarymod ] for method udary.waila.tfcudarymod.entities.TFCAnimal.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ cookingwithtfc ] for method straywolfe.cookingwithtfc.client.waila.WAILAInfo.callbackRegister
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ FTBL ] for method ftb.lib.api.waila.EventRegisterWaila.registerHandlers
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.vanillamc.AddonVanillaEntities.registerAddon
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.vanillamc.AddonVanillaTiles.registerAddon
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.generic.AddonGenericEntities.registerAddon
+[18:07:09] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.generic.AddonGenericTiles.registerAddon
+[18:07:09] [Client thread/INFO]: Injecting itemstacks
+[18:07:09] [Client thread/INFO]: Itemstack injection complete
+[18:07:09] [Client thread/INFO]: Loading TFCOres
+[18:07:09] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[18:07:09] [Client thread/ERROR]: 1 overlapping potions have been detected.
+[18:07:09] [Client thread/ERROR]: The effect.bleed effect from TerraFirmaCraft is using an overlapping ID. ID: 20
+[18:07:09] [Client thread/ERROR]: Here are a few recommended potion IDs which are not being used: [32, 33, 34, 35, 36, 37]
+[18:07:09] [Client thread/INFO]: [minetweaker.MineTweakerAPI:registerClassRegistry:288]: Loaded class registry: NEI mod support
+[18:07:09] [Client thread/INFO]: [minetweaker.MineTweakerAPI:registerClassRegistry:288]: Loaded class registry: MFR mod support
+[18:07:10] [Client thread/INFO]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[18:07:10] [Client thread/INFO]: Loading override configs
+[18:07:10] [Client thread/INFO]: postInitialize ENTER
+[18:07:10] [Client thread/INFO]: Registered channel: world_info
+[18:07:10] [Client thread/INFO]: Initializing icon sets...
+[18:07:11] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r971.32§8ms§r
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.io.FileNotFoundException: C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\MineMenu\menu.json (지정된 파일을 찾을 수 없습니다)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.FileInputStream.open0(Native Method)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.FileReader.<init>(FileReader.java:72)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at dmillerw.menu.data.json.MenuLoader.load(MenuLoader.java:36)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at dmillerw.menu.proxy.ClientProxy.postInit(ClientProxy.java:56)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at dmillerw.menu.MineMenu.postInit(MineMenu.java:88)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[18:07:11] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[18:07:11] [Client thread/INFO]: Starting PostInitialization for modtweaker2
+[18:07:11] [Client thread/INFO]: Loaded placeableitems version 2.0.1 correctly
+[18:07:11] [Update Check/INFO]: Checking for mod updates...
+[18:07:11] [Client thread/INFO]: Loaded 6 code injections, ShoulderSurfing good to go!
+[18:07:11] [Client thread/INFO]: [fair.tfcengineer.TFCEngineer:postInit:67]: TFCEngineer: Post init
+[18:07:11] [Client thread/WARN]: [BC] Class not found. java.lang.ClassNotFoundException: buildcraft.factory.TileTank
+[18:07:11] [Client thread/WARN]: [IndustrialCraft 2] Error while loading generator hooks.java.lang.ClassNotFoundException: ic2.core.block.generator.tileentity.TileEntityBaseGenerator
+[18:07:11] [Client thread/WARN]: [Thaumcraft] Class not found. java.lang.ClassNotFoundException: thaumcraft.common.Thaumcraft
+[18:07:11] [Client thread/INFO]: [EnderStorage] EnderStorage mod not found.
+[18:07:11] [Client thread/INFO]: [GraveStone] GraveStone mod not found.
+[18:07:11] [Client thread/INFO]: [TwilightForestMod] TwilightForestMod mod not found.
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading Energy hooks.java.lang.ClassNotFoundException: cofh.api.tileentity.IEnergyInfo
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading Energy Cell hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cell.TileCell
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading Tank hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.tank.TileTank
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.ender.TileTesseract
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading ISecureTile hooks.java.lang.ClassNotFoundException: cofh.api.tileentity.ISecurable
+[18:07:11] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cache.TileCache
+[18:07:11] [Client thread/WARN]: [Thermal Dynamics] Error while loading FluidDuct hooks.java.lang.ClassNotFoundException: cofh.thermaldynamics.ducts.fluid.TileFluidDuct
+[18:07:11] [Client thread/INFO]: [Engineer Toolbox] Engineer Toolbox mod not found.
+[18:07:11] [Client thread/INFO]: [ProjectRed] ProjectRed|Integration mod not found.
+[18:07:11] [Client thread/INFO]: [ExtraUtilities] ExtraUtilities mod not found.
+[18:07:11] [Client thread/INFO]: [OpenBlocks] OpenBlocks mod not found.
+[18:07:11] [Client thread/INFO]: [Railcraft] Railcraft mod not found.
+[18:07:11] [Client thread/INFO]: [PamHarvestCraft] PamHarvestCraft mod not found.
+[18:07:11] [Client thread/INFO]: [MagicalCrops] MagicalCrops mod not found.
+[18:07:11] [Client thread/INFO]: [Statues] Statues mod not found.
+[18:07:11] [Client thread/INFO]: [Agriculture] Agriculture mod not found.
+[18:07:11] [Client thread/INFO]: Trying to reflect com.bioxx.tfc.WAILA.WAILAData callbackRegister
+[18:07:11] [Update Check/INFO]: Latest version is 2.0.1.
+[18:07:11] [Update Check/INFO]: Mod is the latest version!
+[18:07:11] [Client thread/INFO]: Success in registering terrafirmacraft
+[18:07:11] [Client thread/INFO]: Trying to reflect com.bioxx.tfc.WAILA.WMobs callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering terrafirmacraft
+[18:07:11] [Client thread/INFO]: Trying to reflect com.bioxx.tfc.WAILA.WCrucible callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering terrafirmacraft
+[18:07:11] [Client thread/INFO]: Trying to reflect terramisc.waila.TFCMWailaData callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcm
+[18:07:11] [Client thread/INFO]: Trying to reflect sladki.tfc.ab.Handlers.WailaHandler callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcautomatedbellows
+[18:07:11] [Client thread/INFO]: Trying to reflect tfcprimitivetech.handlers.WailaHandler callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcprimitivetech
+[18:07:11] [Client thread/INFO]: Trying to reflect blusunrize.immersiveengineering.common.util.compat.waila.IEWailaDataProvider callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering ImmersiveEngineering
+[18:07:11] [Client thread/INFO]: Trying to reflect ua.pp.shurgent.tfctech.waila.WAILAData callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfctech
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCAnvil callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCBarrel callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCBerryBush callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCBlastFurnace callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCClay callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCCrucible callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCDirt callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCFarmland callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCFirepit callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCFoodPrep callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCForge callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCFruitLeaves callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCFruitWood callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCGrass callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCGravel callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCGrill callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCHopper callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCIngotPile callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCLogPile callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCPottery callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCQuern callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCSand callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCSapling callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCSmokeRack callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCToolRack callbackRegister
+[18:07:11] [JM-VersionCheck-1/ERROR]: Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:137) [VersionCheck$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCTorch callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.blocks.TFCWorldItem callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.entities.TFCAnimal callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.terrafirmacraft.entities.TFCStand callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.blocks.WAlloyCalculator callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.blocks.WAnodisingVessel callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.blocks.WDryingMat callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.blocks.WEvaporatorPan callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.blocks.WOreCooker callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect udary.waila.tfcudarymod.entities.TFCAnimal callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering tfcudarymod
+[18:07:11] [Client thread/INFO]: Trying to reflect straywolfe.cookingwithtfc.client.waila.WAILAInfo callbackRegister
+[18:07:11] [Client thread/INFO]: Success in registering cookingwithtfc
+[18:07:11] [Client thread/INFO]: Trying to reflect ftb.lib.api.waila.EventRegisterWaila registerHandlers
+[18:07:11] [Client thread/INFO]: Success in registering FTBL
+[18:07:11] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.vanillamc.AddonVanillaEntities registerAddon
+[18:07:11] [Client thread/INFO]: Success in registering wawla
+[18:07:11] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.vanillamc.AddonVanillaTiles registerAddon
+[18:07:11] [Client thread/INFO]: Success in registering wawla
+[18:07:11] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.generic.AddonGenericEntities registerAddon
+[18:07:12] [Client thread/INFO]: Success in registering wawla
+[18:07:12] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.generic.AddonGenericTiles registerAddon
+[18:07:12] [Client thread/INFO]: Success in registering wawla
+[18:07:12] [Client thread/INFO]: Welcome to Farseek/Streams. Please visit http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2346379-streams-real-flowing-rivers for information and updates.
+[18:07:12] [Client thread/INFO]: Shader configuration: if you wish to use shaders with custom water blocks including Streams river blocks, edit your shader's gbuffers_wqater.wsh file to replace the line:
+if (mc_Entity.x == 8 || mc_Entity.x == 9) {
+with the following line:
+if (mc_Entity.x == 8 || mc_Entity.x == 9 || mc_Entity.x == 426 || mc_Entity.x == 427 || mc_Entity.x == 428 || mc_Entity.x == 429 || mc_Entity.x == 430 || mc_Entity.x == 431 || mc_Entity.x == 566 || mc_Entity.x == 647 || mc_Entity.x == 648 || mc_Entity.x == 649 || mc_Entity.x == 650 || mc_Entity.x == 651 || mc_Entity.x == 652 || mc_Entity.x == 653 || mc_Entity.x == 654 || mc_Entity.x == 655 || mc_Entity.x == 656 || mc_Entity.x == 657 || mc_Entity.x == 658 || mc_Entity.x == 659 || mc_Entity.x == 660 || mc_Entity.x == 661 || mc_Entity.x == 662 || mc_Entity.x == 663) {
+Note that these ids will change with every new combination of loaded mods.
+[18:07:12] [Client thread/INFO]: Forge Mod Loader has successfully loaded 58 mods
+[18:07:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Leather Water Sac, FMLFileResourcePack:TerraFirmaCraft, FMLFileResourcePack:TerraMisc, FMLFileResourcePack:AutomatedBellowsAddon, FMLFileResourcePack:CellarsAddon, FMLFileResourcePack:TFC Primitive Technology AddOn, FMLFileResourcePack:TFC Scales, FMLFileResourcePack:Shurgent's TFCTech Addon, FMLFileResourcePack:TFC Udary Mod, FMLFileResourcePack:BetterBedrockGen, FMLFileResourcePack:Better Boat, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoodsTFC, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:ContentTweaker, FMLFileResourcePack:Cooking with TFC, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Farseek, FMLFileResourcePack:Fluxed-Core, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTB Tweaks, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Item Scroller, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Login Shield, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Config Checker Mod, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:nemocraft Hangul, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:PChan3 mods, FMLFileResourcePack:Placeable Items Mod, FMLFileResourcePack:Quadrum, FMLFileResourcePack:Rails of War, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Rails of War Automation Module, FMLFileResourcePack:Shoulder Surfing, FMLFileResourcePack:SimpleAutoRun, FMLFileResourcePack:Streams, FMLFileResourcePack:TerraFirmaCraftNEIplugin, FMLFileResourcePack:TFC Engineer, FMLFileResourcePack:TFC Tweaker, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At, ContentTweaker-Resourcepack.zip, CustomResources, CustomOverridingResources
+[18:07:13] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/blocks/metal2_skycrateDispenser.png, java.io.FileNotFoundException
+[18:07:14] [Client thread/INFO]: textures/blocks: dropping miplevel from 4 to 3, because of minTexel: 10
+[18:07:14] [Client thread/WARN]: The sprite placeableitems:destroy/spider_eye caused the mipmap level to drop from 4 to 3 because it's too small (10x10 px).
+[18:07:14] [Client thread/INFO]: Created: 1024x2048 textures/blocks-atlas
+[18:07:14] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:14] [Client thread/INFO]: Stitching Revolver Textures!
+[18:07:14] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_tesla.png, java.io.FileNotFoundException
+[18:07:14] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_rose.png, java.io.FileNotFoundException
+[18:07:14] [Client thread/INFO]: Created: 1024x1024 textures/revolvers-atlas
+[18:07:14] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:15] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[18:07:15] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[18:07:15] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:07:15] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[18:07:15] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[18:07:15] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:07:15] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:07:15] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[18:07:15] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[18:07:15] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:07:15] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[18:07:16] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:07:16] [Sound Library Loader/INFO]: Sound engine started
+[18:07:17] [Client thread/INFO]: Loading blocks and textures...
+[18:07:17] [Client thread/INFO]: Built BlockMD cache (2200) : BlockMD.reset count 1 avg 87.23ms
+[18:07:17] [Client thread/INFO]: initBlocksTexture: 1024x2048 loaded in 76.985843ms
+[18:07:17] [Client thread/WARN]: Existing color palette's mods no longer match current loadout.
+[18:07:17] [Client thread/INFO]: WAS: AutomatedBellowsAddon:1.1a, Better Boat:1.1.0, BetterBedrockGen:1.0.0, BiblioCraft:1.11.7, BiblioWoodsTFC:1.2, Bookshelf:1.0.4.187, CellarsAddon:1.1, CodeChicken Core:1.0.7.47, Config Checker Mod:1.5.1, ContentTweaker:1.0.5, Cooking with TFC:0.0.7.1, EnderCore:1.7.10-0.2.0.39_beta, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Farseek:2.0.1, FastCraft:1.25, Fluxed-Core:1.0.9, Forge Mod Loader:7.10.99.99, Immersive Engineering:0.7.7, Item Scroller CoreMod:0.12.0-alpha.1, Item Scroller:0.12.0-alpha.1, JourneyMap:5.1.4p2, Leather Water Sac:3.9.B79, Login Shield:1.7.10-2-gf6e21a7, MineMenu:1.2.0, MineTweaker 3:3.0.13, MineTweakerRecipeMaker:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, Mouse Tweaks:2.4.4, NEI Integration:1.1.2, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, PChan3 mods:0.7, Placeable Items Mod:2.0.1, Quadrum:1.2.0, Rails of War Automation Module:9.0.1, Rails of War:1.7.10-15.01.18-2, Resource Loader:1.3, Shoulder Surfing:1.10.1, Shurgent's TFCTech Addon:0.2.10-A15, SimpleAutoRun:1.7.10-1.2, Streams:0.3.4, TFC Engineer:1.1.2, TFC Primitive Technology AddOn:1.0.1, TFC Scales:1.0, TFC Tweaker:1.1.4.0, TFC Udary Mod:0.2.33, TFC[coremod]:0.79.29, TerraFirmaCraft:0.79.29, TerraFirmaCraftNEIplugin:1.5.3.25, TerraMisc:0.13.0, WAILA Plugins:MC1.7.10-0.2.0-25, Waila:1.5.10, What Are We Looking At:1.3.1, nemocraft Hangul:1.4
+NOW: AutomatedBellowsAddon:1.1a, Better Boat:1.1.0, BetterBedrockGen:1.0.0, BiblioCraft:1.11.7, BiblioWoodsTFC:1.2, Bookshelf:1.0.4.187, CellarsAddon:1.1, CodeChicken Core:1.0.7.47, Config Checker Mod:1.5.1, ContentTweaker:1.0.5, Cooking with TFC:0.0.7.1, EnderCore:1.7.10-0.2.0.39_beta, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Farseek:2.0.1, FastCraft:1.25, Fluxed-Core:1.0.9, Forge Mod Loader:7.10.99.99, Immersive Engineering:0.7.7, Item Scroller CoreMod:0.12.0-alpha.1, Item Scroller:0.12.0-alpha.1, JourneyMap:5.1.4p2, Leather Water Sac:3.9.B79, Login Shield:1.7.10-2-gf6e21a7, MineMenu:1.2.0, MineTweaker 3:3.0.13, MineTweakerRecipeMaker:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, Mouse Tweaks:2.4.4, NEI Integration:1.1.2, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, PChan3 mods:0.7, Placeable Items Mod:2.0.1, Quadrum:1.2.0, Rails of War Automation Module:9.0.1, Rails of War:1.7.10-5.8-RC4, Resource Loader:1.3, Shoulder Surfing:1.10.1, Shurgent's TFCTech Addon:0.2.10-A15, SimpleAutoRun:1.7.10-1.2, Streams:0.3.4, TFC Engineer:1.1.2, TFC Primitive Technology AddOn:1.0.1, TFC Scales:1.0, TFC Tweaker:1.1.4.0, TFC Udary Mod:0.2.33, TFC[coremod]:0.79.29, TerraFirmaCraft:0.79.29, TerraFirmaCraftNEIplugin:1.5.3.25, TerraMisc:0.13.0, WAILA Plugins:MC1.7.10-0.2.0-25, Waila:1.5.10, What Are We Looking At:1.3.1, nemocraft Hangul:1.4
+[18:07:17] [Client thread/INFO]: Initialized 2187 block colors from mods and resource packs in 124ms
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:NestBox:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [row:tile.row.blockGag:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand2:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:1] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:3] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:2] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:5] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:4] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:7] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:6] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:9] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:8] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:11] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:10] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:13] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:12] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:15] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:ArmourStand:14] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [tfcudarymod:tile.Alloy Calculator:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:stoneStalac:0] (Transparency,Error)
+[18:07:17] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [terrafirmacraft:LooseRock:0] (HasAir,NoShadow,Transparency,Error,NoTopo)
+[18:07:17] [Client thread/INFO]: Color palette file generated with 2163 colors in 163ms for: C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\colorpalette.json
+[18:07:17] [Client thread/INFO]: Updated color palette file: C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\colorpalette.json
+[18:07:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:07:25] [Server thread/INFO]: Generating keypair
+[18:07:25] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:109]: Loading scripts
+[18:07:25] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading MineTweakerRecipeMaker.zs
+[18:07:25] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading Sprucians.zs
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.fluids.FluidCustom@10fc9250 (name MineTweaker3:content) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@18002cf5 (name MineTweaker3:content) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.items.ItemFluidBucket@5dbc1198 (name MineTweaker3:content_bucket) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
+[18:07:25] [Server thread/WARN]: *  at contentTweaker.content.ContentFluid$Add.apply(ContentFluid.java:80)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.fluids.FluidCustom@15079bf6 (name MineTweaker3:refinded oil) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@288a781f (name MineTweaker3:refinded oil) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.items.ItemFluidBucket@485b76f2 (name MineTweaker3:refinded oil_bucket) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
+[18:07:25] [Server thread/WARN]: *  at contentTweaker.content.ContentFluid$Add.apply(ContentFluid.java:80)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.blocks.BlockCustom@6aac8a24 (name MineTweaker3:oilsand) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@fac449b (name MineTweaker3:oilsand) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:25] [Server thread/WARN]: * The object contentTweaker.content.items.ItemCustom@285c7b7d (name MineTweaker3:crushed_oilsand) is being added too late.
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
+[18:07:25] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
+[18:07:25] [Server thread/WARN]: *  at contentTweaker.content.ContentItem$Add.apply(ContentItem.java:60)...
+[18:07:25] [Server thread/WARN]: ****************************************
+[18:07:26] [Server thread/WARN]: ****************************************
+[18:07:26] [Server thread/WARN]: * The object contentTweaker.content.blocks.BlockCustom@6e850ce1 (name MineTweaker3:tile.e_gravel.name) is being added too late.
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:26] [Server thread/WARN]: ****************************************
+[18:07:26] [Server thread/WARN]: ****************************************
+[18:07:26] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@3d0d868f (name MineTweaker3:tile.e_gravel.name) is being added too late.
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:26] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:26] [Server thread/WARN]: ****************************************
+[18:07:26] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading intermod
+[18:07:26] [Server thread/INFO]: Loading override configs
+[18:07:26] [Server thread/INFO]: This world was saved with mod row version 1.7.10-15.01.18-2 and it is now at version 1.7.10-5.8-RC4, things may not work well
+[18:07:26] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[18:07:26] [Server thread/INFO]: Found a missing id from the world row:tile.row.blockPointer_lit
+[18:07:26] [Server thread/INFO]: Found a missing id from the world row:tile.row.blockPointer_lit
+[18:07:26] [Server thread/INFO]: Found a missing id from the world row:item.row.pointer
+[18:07:26] [Server thread/ERROR]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[18:07:26] [Server thread/ERROR]: Unidentified block: row:tile.row.blockPointer_lit, id 771
+[18:07:26] [Server thread/ERROR]: Unidentified item: row:tile.row.blockPointer_lit, id 771
+[18:07:26] [Server thread/ERROR]: Unidentified item: row:item.row.pointer, id 5516
+[18:07:36] [Server thread/INFO]: World backup created at C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\saves\New World--20190128-180735.zip.
+[18:07:36] [Server thread/ERROR]: This world contains block and item mappings that may cause world breakage
+[18:07:36] [Server thread/INFO]: Injecting new block and item data into this server instance.
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingHalf: 733 (init) -> 773 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockBench: 730 (init) -> 774 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingFull: 732 (init) -> 775 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampPole: 739 (init) -> 776 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrate: 734 (init) -> 777 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockTower: 737 (init) -> 778 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingCenter: 731 (init) -> 779 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLantern: 743 (init) -> 780 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockPointerMod: 748 (init) -> 781 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockPole_lit: 736 (init) -> 782 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockPole: 735 (init) -> 783 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockTower_lit: 738 (init) -> 784 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampWall_b: 742 (init) -> 785 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockPlatform: 729 (init) -> 786 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampPole_lit: 740 (init) -> 787 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampWall_a: 741 (init) -> 788 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockBench: 730 (init) -> 774 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingFull: 732 (init) -> 775 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampPole: 739 (init) -> 776 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.funnellarge: 5497 (init) -> 5518 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrate: 734 (init) -> 777 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.boiler: 5495 (init) -> 5519 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.howitzer: 5479 (init) -> 5520 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingCenter: 731 (init) -> 779 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLantern: 743 (init) -> 780 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockPointerMod: 748 (init) -> 781 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.battery: 5489 (init) -> 5521 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockPole_lit: 736 (init) -> 782 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockPole: 735 (init) -> 783 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.killbutton: 5492 (init) -> 5522 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.cartwheel: 5499 (init) -> 5523 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockTower_lit: 738 (init) -> 784 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.enginewheel: 5494 (init) -> 5524 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampPole_lit: 740 (init) -> 787 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockCrossingHalf: 733 (init) -> 773 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.light: 5496 (init) -> 5525 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.traincabin: 5493 (init) -> 5526 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.funnelsmall: 5498 (init) -> 5527 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.gravelwand: 5490 (init) -> 5528 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockClockTower: 737 (init) -> 778 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:item.row.trackwand: 5491 (init) -> 5529 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampWall_b: 742 (init) -> 785 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockPlatform: 729 (init) -> 786 (map).
+[18:07:36] [Server thread/INFO]: Injected new block/item row:tile.row.blockLampWall_a: 741 (init) -> 788 (map).
+[18:07:36] [Server thread/INFO]: Applying holder lookups
+[18:07:36] [Server thread/INFO]: Holder lookups applied
+[18:07:36] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@6074c259)
+[18:07:36] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@6074c259)
+[18:07:36] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@6074c259)
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:36] [Server thread/INFO]: Loading override configs
+[18:07:36] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:109]: Loading scripts
+[18:07:36] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading MineTweakerRecipeMaker.zs
+[18:07:36] [Thread-20/INFO]: Loaded 2 badges in 78 ms!
+[18:07:36] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading Sprucians.zs
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: * The object contentTweaker.content.blocks.BlockCustom@76ac4000 (name contenttweaker:oilsand) is being added too late.
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@272b0473 (name contenttweaker:oilsand) is being added too late.
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: * The object contentTweaker.content.items.ItemCustom@7545f2ca (name contenttweaker:crushed_oilsand) is being added too late.
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
+[18:07:36] [Server thread/WARN]: *  at contentTweaker.content.ContentItem$Add.apply(ContentItem.java:60)...
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: * The object contentTweaker.content.blocks.BlockCustom@189ccb5 (name contenttweaker:tile.e_gravel.name) is being added too late.
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:894)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:869)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:229)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:36] [Server thread/WARN]: * The object net.minecraft.item.ItemBlock@68202a24 (name contenttweaker:tile.e_gravel.name) is being added too late.
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:399)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:232)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:188)
+[18:07:36] [Server thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:177)...
+[18:07:36] [Server thread/WARN]: ****************************************
+[18:07:37] [Server thread/INFO]: [terramisc.core.TFCMRecipes:initialiseAnvil:91]: [TerraMisc] Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: [terramisc.core.TFCMRecipes:initialiseAnvil:96]: [TerraMisc] Done Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: Done Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialiseAnvil:74]: [TFCUdaryMod] Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialiseAnvil:79]: [TFCUdaryMod] Done Registering Anvil Recipes
+[18:07:37] [Server thread/INFO]: Preparing start region for level 0
+[18:07:37] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:37] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:37] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:37] [Server thread/WARN]: Skipping BlockEntity with id row.tileEntityGag
+[18:07:38] [Server thread/INFO]: Starting ServerStart for modtweaker2
+[18:07:38] [Server thread/INFO]: Loading compatibility for minecraft
+[18:07:38] [Server thread/INFO]: CoFHCore not loaded - skipping
+[18:07:38] [Server thread/INFO]: Metallurgy not loaded - skipping
+[18:07:38] [Server thread/INFO]: NetherOres not loaded - skipping
+[18:07:38] [Server thread/INFO]: BigReactors not loaded - skipping
+[18:07:38] [Server thread/INFO]: appliedenergistics2 not loaded - skipping
+[18:07:38] [Server thread/INFO]: Thaumcraft not loaded - skipping
+[18:07:38] [Server thread/INFO]: ElectriCraft not loaded - skipping
+[18:07:38] [Server thread/INFO]: ReactorCraft not loaded - skipping
+[18:07:38] [Server thread/INFO]: Forestry not loaded - skipping
+[18:07:38] [Server thread/INFO]: TConstruct not loaded - skipping
+[18:07:38] [Server thread/INFO]: IC2 not loaded - skipping
+[18:07:38] [Server thread/INFO]: MobProperties not loaded - skipping
+[18:07:38] [Server thread/INFO]: xreliquary not loaded - skipping
+[18:07:38] [Server thread/INFO]: bluepower not loaded - skipping
+[18:07:38] [Server thread/INFO]: WorldData loading
+[18:07:38] [Server thread/INFO]: WorldData retrieved
+[18:07:38] [Server thread/INFO]: Removed 0 old recipes
+[18:07:38] [Server thread/INFO]: Starting recipe profiler for Arc Recycling, using 8 Threads
+[18:07:38] [Server thread/INFO]: Couldn't fully analyze 1xitem.row.suit.rus_eng.shirt@0, missing knowledge for [1xitem.chestplateCloth@0]
+[18:07:38] [Server thread/INFO]: Couldn't fully analyze 1xitem.row.suit.rus_eng.cap@0, missing knowledge for [1xitem.helmetCloth@0]
+[18:07:38] [Server thread/INFO]: Couldn't fully analyze 1xitem.row.suit.rus_eng.boots@0, missing knowledge for [1xitem.bootsCloth@0]
+[18:07:38] [Server thread/INFO]: Couldn't fully analyze 1xitem.row.suit.rus_eng.coat@0, missing knowledge for [1xitem.chestplateCloth@0]
+[18:07:38] [Server thread/INFO]: Couldn't fully analyze 1xitem.row.suit.rus_eng.pants@0, missing knowledge for [1xitem.leggingsCloth@0]
+[18:07:38] [Server thread/INFO]: Finished recipe profiler for Arc Recycling, took 101 milliseconds
+[18:07:38] [Server thread/INFO]: Loading override configs
+[18:07:38] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:109]: Loading scripts
+[18:07:38] [Thread-29/INFO]: Loaded 2 badges in 50 ms!
+[18:07:38] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading MineTweakerRecipeMaker.zs
+[18:07:38] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading Sprucians.zs
+[18:07:38] [Server thread/INFO]: Registering Anvil Recipes
+[18:07:38] [Server thread/INFO]: Done Registering Anvil Recipes
+[18:07:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:07:40] [Netty Client IO #0/INFO]: Server protocol version 2
+[18:07:40] [Netty IO #1/INFO]: Client protocol version 2
+[18:07:40] [Netty IO #1/INFO]: Client attempting to join with 58 mods : FTBU@1.0.18.2,FTBT@1.0.2,NotEnoughItems@1.0.5.120,Waila@1.5.10,BBG@1.0.0,MTRM@1.0,BiblioCraft@1.11.7,MouseTweaks@2.4.4,contenttweaker@1.0.5,ImmersiveEngineering@0.7.7,tfcprimitivetech@1.0.1,wawla@1.3.1,endercore@1.7.10-0.2.0.39_beta,mcp@9.05,journeymap@5.1.4p2,tfcautomatedbellows@1.1a,tfcudarymod@0.2.33,bookshelf@1.0.4.187,tfc_coremod@0.79.29,streams@0.3.4,farseek@2.0.1,FTBL@1.0.18.2,wailaplugins@MC1.7.10-0.2.0-25,ResourceLoader@1.3,neiintegration@1.1.2,neresources@0.1.0.ManuallyBuilt,Quadrum@1.2.0,FastCraft@1.25,Forge@10.13.4.1614,tfccellars@1.1,cookingwithtfc@0.0.7.1,nemocrafthangul@1.4,itemscroller-coremod@0.12.0-alpha.1,shouldersurfing@1.10.1,BiblioWoodsTFC@1.2,tfctech@0.2.10-A15,TerraFirmaCraftNEIplugin@1.5.3.25,concheckrmd@1.5.1,CodeChickenCore@1.0.7.47,MineTweaker3@3.0.13,modtweaker2@0.9.6,row@1.7.10-5.8-RC4,placeableitems@2.0.1,TFCTweaker@1.1.4.0,simpleautorun@1.7.10-1.2,MineMenu@1.2.0,FML@7.10.99.99,lwstfc@3.9.B79,fluxedcore@1.0.9,tfcm@0.13.0,weightingscales@1.0,login_shield@1.7.10-2-gf6e21a7,itemscroller@0.12.0-alpha.1,pchan3@0.7,terrafirmacraft@0.79.29,betterboat@1.1.0,rowam@9.0.1,tfcengineer@1.1.2
+[18:07:40] [Netty IO #1/INFO]: Attempting connection with missing mods [] at CLIENT
+[18:07:40] [Netty Client IO #0/INFO]: Attempting connection with missing mods [] at SERVER
+[18:07:40] [Client thread/INFO]: [Client thread] Client side modded connection established
+[18:07:40] [Server thread/INFO]: [Server thread] Server side modded connection established
+[18:07:40] [Server thread/INFO]: ZoNiIc645[local:E:283ade07] logged in with entity id 79 at (18141.676530114157, 144.0, -10568.495014705411)
+[18:07:40] [Server thread/INFO]: ZoNiIc645 joined the game
+[18:07:40] [Client thread/INFO]: Transforming Class [net.minecraft.inventory.ContainerRepair], Method [func_82848_d]
+[18:07:40] [Client thread/INFO]: Transforming net.minecraft.inventory.ContainerRepair Finished.
+[18:07:40] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[18:07:41] [Server thread/INFO]: SERVER: MineMenu is installed. Sending server response packet
+[18:07:41] [Server thread/INFO]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[18:07:41] [Client thread/INFO]: [CHAT] WARNING: 2 modifications were stuck
+[18:07:41] [Server thread/INFO]: Loading TFCConfig
+[18:07:41] [Server thread/INFO]: Loading TFCOres
+[18:07:41] [Server thread/INFO]: Reloading TFCCrafting
+[18:07:41] [Client thread/INFO]: Client player ID: 3
+[18:07:41] [Client thread/INFO]: Joined the server with PlayerID 3
+[18:07:41] [Client thread/INFO]: [CHAT] Welcome to the server!
+[18:07:41] [Server thread/INFO]: Player EntityPlayerMP['ZoNiIc645'/79, l='New World', x=18141.68, y=144.00, z=-10568.50] connected. Sending ping
+[18:07:42] [Client thread/INFO]: [minetweaker.runtime.MTTweaker:load:109]: Loading scripts
+[18:07:42] [Client thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading MineTweakerRecipeMaker.zs
+[18:07:42] [Client thread/INFO]: [minetweaker.runtime.MTTweaker:load:156]: MineTweaker: Loading Sprucians.zs
+[18:07:42] [Client thread/INFO]: Current Mode: default
+[18:07:44] [pool-3-thread-1/INFO]: TFCTech Addon version is up to date.
+[18:07:45] [Client thread/INFO]: Loading NEI config.
+[18:07:45] [Client thread/INFO]: Done NEI integration.
+[18:07:45] [Client thread/INFO]: Loading integration: Minecraft / Forge
+[18:07:45] [Client thread/INFO]: Applying server TFCCrafting settings
+[18:07:45] [Client thread/INFO]: Registering Anvil Recipes
+[18:07:45] [Client thread/INFO]: Done Registering Anvil Recipes
+[18:07:45] [Client thread/INFO]: Received server authentication msg. Remote sync will be activated
+[18:07:46] [Client thread/INFO]: [CHAT] WARNING: 3 modifications were stuck
+[18:07:46] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra E7§f
+[18:07:46] [Server thread/INFO]: Saving and pausing game...
+[18:07:46] [Server thread/INFO]: Saving chunks for level 'New World'/DEFAULT
+[18:07:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:07:47] [Server thread/INFO]: Saving chunks for level 'New World'/DEFAULT
+[18:07:48] [Client thread/INFO]: Loaded 4 waypoints from C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\data\sp\New World-\waypoints
+[18:07:48] [Client thread/INFO]: Blocks and textures are current
+[18:07:49] [Client thread/INFO]: Mapping started in C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\data\sp\New World-\DIM0. Memory: 1284MB total, 897MB free 
+[18:07:53] [Client thread/INFO]: Attempting to Transform: bls | Found 1 injections
+[18:07:53] [Client thread/INFO]: Attempting to Transform: bls Complete
+[18:07:55] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[18:07:55] [Client thread/INFO]: JourneyMap: Press [J]
+[18:07:57] [Client thread/INFO]: Transforming Class [net.minecraft.enchantment.EnchantmentHelper], Method [func_77513_b]
+[18:07:57] [Client thread/INFO]: Transforming net.minecraft.enchantment.EnchantmentHelper Finished.
+[18:07:57] [Client thread/INFO]: [CHAT] Started coupling, front coupler selected
+[18:07:57] [Client thread/INFO]: [CHAT] Releasing front coupler
+[18:08:00] [JM-task-5/INFO]: Iconloader ignoring tile entity: BlockMD [cookingwithtfc:customCrop:1] (HasAir,TileEntity)
+[18:08:00] [JM-task-5/INFO]: Iconloader ignoring tile entity: BlockMD [cookingwithtfc:customCrop:2] (HasAir,TileEntity)
+[18:08:00] [JM-task-5/INFO]: Iconloader ignoring tile entity: BlockMD [cookingwithtfc:customCrop:3] (HasAir,TileEntity)
+[18:09:19] [JM-task-5/INFO]: Custom biome color will be used with BlockMD [cookingwithtfc:nutTreeLeaves:11] (CustomBiomeColor)
+[18:09:39] [Client thread/INFO]: [CHAT] Started coupling, front coupler selected
+[18:09:39] [Client thread/INFO]: [CHAT] Releasing front coupler
+[18:09:40] [Client thread/INFO]: [CHAT] Started coupling, rear coupler selected
+[18:09:40] [Client thread/INFO]: [CHAT] Releasing rear coupler
+[18:09:43] [Client thread/INFO]: [CHAT] Started coupling, rear coupler selected
+[18:09:43] [Client thread/INFO]: [CHAT] Releasing rear coupler
+[18:09:44] [Client thread/INFO]: [CHAT] Started coupling, front coupler selected
+[18:09:44] [Client thread/INFO]: [CHAT] Releasing front coupler
+[18:09:47] [Client thread/INFO]: Selecting effect minecraft:shaders/post/notch.json
+[18:09:47] [Client thread/INFO]: Stopping!
+[18:09:47] [Server thread/INFO]: [terramisc.core.TFCMRecipes:initialiseAnvil:91]: [TerraMisc] Registering Anvil Recipes
+[18:09:47] [Server thread/INFO]: [terramisc.core.TFCMRecipes:initialiseAnvil:96]: [TerraMisc] Done Registering Anvil Recipes
+[18:09:47] [Server thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialiseAnvil:74]: [TFCUdaryMod] Registering Anvil Recipes
+[18:09:47] [Server thread/INFO]: [udary.tfcudarymod.core.ModRecipes:initialiseAnvil:79]: [TFCUdaryMod] Done Registering Anvil Recipes
+[18:09:47] [Client thread/INFO]: Mapping halted in C:\Users\micha_000\Documents\Curse\Minecraft\Instances\return season 8\journeymap\data\sp\New World-\DIM0
+[18:09:47] [Server thread/INFO]: Stopping server
+[18:09:47] [Server thread/INFO]: Saving players
+[18:09:47] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:09:47] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[18:09:47] [Server thread/INFO]: Saving worlds
+[18:09:47] [Server thread/INFO]: Saving chunks for level 'New World'/DEFAULT
+[18:09:47] [Netty Client IO #0/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[18:09:47] [Netty Client IO #0/INFO]: CLIENT: Disconnected from server, enabling all click actions
+[18:09:47] [Netty Client IO #0/INFO]: Reset configs to client values for tterrag.wailaplugins.config.WPConfigHandler
+[18:09:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:09:47] [Server thread/INFO]: Saving chunks for level 'New World'/DEFAULT
+[18:09:48] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[18:09:48] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[18:09:48] [Client Shutdown Thread/INFO]: Stopping server
+[18:09:48] [Client Shutdown Thread/INFO]: Saving players
